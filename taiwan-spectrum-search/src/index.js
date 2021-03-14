@@ -13,6 +13,7 @@ import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemIcon from '@material-ui/core/ListItemIcon';
 import WifiIcon from '@material-ui/icons/Wifi';
+import CommentIcon from '@material-ui/icons/Comment';
 
 import spectrum from './data/spectrum.json';
 
@@ -96,15 +97,24 @@ class TaiwanSpectrum extends React.Component {
 				  {alloc['range'][0]} - {alloc['range'][1]} {alloc['unit']}
 				</Typography>
 				<List>
-				  {alloc['usage'].map((usage) => <ListItem style={{'fontSize': '0.6rem'}}>
-												         <ListItemIcon>
-														   <WifiIcon />
-														 </ListItemIcon>
-												   {usage}
-												 </ListItem>)}
+				  {alloc['usage'].map((usage) =>
+					<ListItem style={{'fontSize': '0.8rem'}}>
+					  <ListItemIcon>
+						<WifiIcon />
+					  </ListItemIcon>
+					  {usage}
+					</ListItem>)}
 				</List>
-				<Typography color="textSecondary">
-				  {alloc['note']}
+				  <Typography color="textSecondary">
+				<List>
+				  {alloc['note'].map((note) =>
+					<ListItem style={{'fontSize': '0.6rem'}}>
+					  <ListItemIcon>
+						<CommentIcon />
+					  </ListItemIcon>
+					  {note}
+					</ListItem>)}
+				</List>
 				</Typography>
 
 			  </CardContent>
