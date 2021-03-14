@@ -74,6 +74,7 @@ Reference
 ---------
 
 * [NCC 頻譜資料庫查詢系統](https://freqdbo.ncc.gov.tw/portal/index.aspx)
-* [中華民國無線電頻率分配表](http://odmdoc.motc.gov.tw/IFDEWebBBS_MOTC/ExternalBBS.aspx?ThirdDocId=109RD05188)
+* [中華民國無線電頻率分配表 (2020/09 核定本)](http://odmdoc.motc.gov.tw/IFDEWebBBS_MOTC/ExternalBBS.aspx?ThirdDocId=109RD05188)
+* [中華民國無線電頻率分配表 (2020/02 草案)](http://odmdoc.motc.gov.tw/IFDEWebBBS_MOTC/ExternalBBS.aspx?ThirdDocId=109RD05188)
 * [United States Frequency Allocation Chart](https://www.ntia.doc.gov/page/2011/united-states-frequency-allocation-chart)
 * [台灣頻譜分配圖 (2016/02)](https://freqdbo.ncc.gov.tw/upload/FILESAVE/080724081215.pdf)
