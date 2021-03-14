@@ -1,6 +1,8 @@
 台灣無線電頻率分配表 (Table of Radio Frequency Allocations of Taiwan)
 =====================================================================
 
+Web Search: [Taiwan Radio Frequency Allocations Spectrum Search](https://blog.louie.lu/2021/03/14/taiwan-radio-frequency-allocations-spectrum-search/)
+
 Run Parser
 ----------
 
