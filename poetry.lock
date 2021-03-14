@@ -49,16 +49,23 @@ docs = ["sphinx", "sphinx-argparse"]
 
 [[package]]
 name = "pdfplumber"
-version = "0.5.27"
+version = "0.5.24"
 description = "Plumb a PDF for detailed information about each char, rectangle, and line."
 category = "main"
 optional = false
-python-versions = ">=3.6"
+python-versions = "*"
+develop = false
 
 [package.dependencies]
 "pdfminer.six" = "20200517"
 Pillow = ">=7.0.0"
 Wand = "*"
+
+[package.source]
+type = "git"
+url = "https://github.com/guo1017138/pdfplumber"
+reference = "stable"
+resolved_reference = "42564e074ed6ae738333fbbd046f43238faece12"
 
 [[package]]
 name = "pillow"
@@ -126,7 +133,7 @@ test = ["pytest (>=5.3.5)"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7.1"
-content-hash = "3402e2ff73d1bfea86c9609dd24873ac66a4306c16302c27e43c8900dcb06819"
+content-hash = "ee66d4d88597e05582298b696ce7726c33cd235976f03a6ae18aaee4a580cd88"
 
 [metadata.files]
 chardet = [
@@ -181,9 +188,7 @@ pandas = [
     {file = "pdfminer.six-20200517-py3-none-any.whl", hash = "sha256:de532975eeb38248d9efc871718bd477c0e97afc22dff1f85afe926a604897ab"},
     {file = "pdfminer.six-20200517.tar.gz", hash = "sha256:429a099d2ca76cedff79652e17cfc37d7751a26d50f30af0fa791a69f68a3ddc"},
 ]
-pdfplumber = [
-    {file = "pdfplumber-0.5.27.tar.gz", hash = "sha256:08542c568c3cdebb8ab042c6ca75349d4a32f2562952ad0e04c144e6497d2074"},
-]
+pdfplumber = []
 pillow = [
     {file = "Pillow-8.1.2-cp36-cp36m-macosx_10_10_x86_64.whl", hash = "sha256:5cf03b9534aca63b192856aa601c68d0764810857786ea5da652581f3a44c2b0"},
     {file = "Pillow-8.1.2-cp36-cp36m-manylinux1_i686.whl", hash = "sha256:f91b50ad88048d795c0ad004abbe1390aa1882073b1dca10bfd55d0b8cf18ec5"},

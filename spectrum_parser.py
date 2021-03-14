@@ -107,7 +107,9 @@ def parse_with_note(table, unit, page_num):
 def parse_page(page, unit, page_num):
     COLUMNS = ["ITU無線電規則", "頻段業務分配", "備註"]
 
-    table = pd.DataFrame(page.extract_tables()[0][2:], columns=COLUMNS)
+    table = pd.DataFrame(
+        page.extract_tables({"merged_cell_fullfill": True})[0][2:], columns=COLUMNS
+    )
     parse_col(table["ITU無線電規則"], unit, page_num)
     return parse_with_note(table, unit, page_num)
 
