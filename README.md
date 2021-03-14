@@ -70,6 +70,14 @@ $ cd taiwan-spectrum-search
 $ yarn start
 ```
 
+TODO
+----
+
+- [] Radio Frequency Allocations Chart @ web frontend
+- [] Better search @ web front end
+  - [] Search by usage
+  - [] Search by note
+
 Reference
 ---------
 
