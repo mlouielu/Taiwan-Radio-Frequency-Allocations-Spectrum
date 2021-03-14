@@ -93,7 +93,11 @@ def parse_with_note(table, unit, page_num):
             continue
         spectrum_start_end = re.findall(r"(\d+.\d+)\s?[-–]\s?(\d+.\d+)", col)
         if spectrum_start_end:
-            result.append(Spectrum(*map(float, spectrum_start_end[0]), unit, page_num))
+            spectrum_start_end = list(map(float, spectrum_start_end[0]))
+            if result and spectrum_start_end[0] == result[-1].start:
+                # Skip duplicate
+                continue
+            result.append(Spectrum(*spectrum_start_end, unit, page_num))
             usage = re.findall(r"(?<=\n).*?(?=\s\n|$)", col)
             if usage:
                 result[-1].usage.extend(usage)
@@ -131,6 +135,7 @@ def main():
         unit = page.crop((0, 0, 595, 80)).extract_text().strip()
         if not unit.endswith("Hz"):
             unit = prev_unit
+
         result.extend(parse_page(page, unit, page.page_number))
         prev_unit = unit
 
