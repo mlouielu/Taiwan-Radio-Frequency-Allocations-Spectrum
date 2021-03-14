@@ -25,7 +25,7 @@ $ cat spectrum.json
             "usage": [
                 "未分配"
             ],
-            "note": "",
+            "note": [],
             "page_number": 30
         },
 		...
@@ -56,7 +56,7 @@ normalized_range -> List[float, float]: normalized frequency range
 unit -> str: frequency unit for this allocation
 unit_factor -> float: frequency unit factor (range * unit_factor = normalized_range)
 usage -> List[str, ...]: Usage of this allocation
-note -> str: Detail of this allocation
+note -> List[str, ...]: Detail of this allocation
 page_number -> int: PDF page of this allocation
 ```
 
