@@ -41,7 +41,7 @@ class Spectrum:
         self.unit_factor = 0
         self.normalized_start = 0
         self.normalized_end = 0
-        self.note = ""
+        self.note = []
         self.usage = []
         self.page_num = page
 
@@ -100,7 +100,13 @@ def parse_with_note(table, unit, page_num):
         else:
             result[-1].usage.append(col)
         if note:
-            result[-1].note = note.replace("\n", "")
+            note = note.replace("\n-", "-").replace("- \n", "-")
+
+            for v in re.split("(?=\s\n\d+)", note):
+                if v:
+                    result[-1].note.append(
+                        v.strip("\n").replace("\n", "").replace(" ", "")
+                    )
     return result
 
 
