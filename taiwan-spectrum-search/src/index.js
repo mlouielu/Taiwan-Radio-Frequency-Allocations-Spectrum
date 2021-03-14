@@ -55,7 +55,7 @@ function Footer() {
         <div>
             <div style={phantom} />
             <div style={style}>
-			  <Link href="https://github.com/mlouielu">GitHub</Link>
+			  <Link href="https://github.com/mlouielu/Taiwan-Radio-Frequency-Allocations-Spectrum">GitHub - Taiwan Radio Frequency Allocations Spectrum</Link>
             </div>
         </div>
     )
