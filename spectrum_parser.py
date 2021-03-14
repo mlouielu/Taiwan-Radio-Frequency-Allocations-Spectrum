@@ -29,8 +29,8 @@ import pdfplumber
 LICENSE = "Copyright (C) 2021 Louie Lu / This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. / This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. / You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>."
 FILENAME = "spectrum.pdf"
 
-START_PAGE = 30
-END_PAGE = 98
+START_PAGE = 19
+END_PAGE = 90
 
 
 class Spectrum:
@@ -48,7 +48,7 @@ class Spectrum:
         self.normalize_Hz()
 
     def normalize_Hz(self):
-        UNIT_FACTOR = {"KHz": 10e3, "MHz": 10e6, "GHz": 10e9}
+        UNIT_FACTOR = {"kHz": 10e3, "MHz": 10e6, "GHz": 10e9}
         self.unit_factor = UNIT_FACTOR[self.unit]
         self.normalized_start = self.start * UNIT_FACTOR[self.unit]
         self.normalized_end = self.end * UNIT_FACTOR[self.unit]
@@ -128,11 +128,12 @@ def main():
     pdf = pdfplumber.open(FILENAME)
 
     result = []
-    prev_unit = "KHz"
+    prev_unit = "kHz"
     for p, page in enumerate(pdf.pages[START_PAGE - 1 : END_PAGE - 1]):
         print(page)
 
         unit = page.crop((0, 0, 595, 80)).extract_text().strip()
+        print(unit)
         if not unit.endswith("Hz"):
             unit = prev_unit
 
