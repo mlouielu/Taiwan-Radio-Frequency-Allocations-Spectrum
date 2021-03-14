@@ -10,13 +10,13 @@
                 0.0,
                 83000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "未分配"
             ],
             "note": [],
-            "page_number": 30
+            "page_number": 19
         },
         {
             "range": [
@@ -27,13 +27,13 @@
                 83000.0,
                 90000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "氣象輔助"
             ],
             "note": [],
-            "page_number": 30
+            "page_number": 19
         },
         {
             "range": [
@@ -44,14 +44,14 @@
                 90000.0,
                 113000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "無線電助航（主）",
                 "氣象輔助（主）"
             ],
             "note": [],
-            "page_number": 30
+            "page_number": 19
         },
         {
             "range": [
@@ -62,13 +62,13 @@
                 113000.0,
                 140000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "無線電助航"
             ],
             "note": [],
-            "page_number": 30
+            "page_number": 19
         },
         {
             "range": [
@@ -79,14 +79,14 @@
                 140000.0,
                 199500.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "水上行動（主）"
             ],
             "note": [],
-            "page_number": 30
+            "page_number": 19
         },
         {
             "range": [
@@ -97,13 +97,13 @@
                 199500.0,
                 200500.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "標準頻率與時間信號（20kHz）"
             ],
             "note": [],
-            "page_number": 30
+            "page_number": 19
         },
         {
             "range": [
@@ -114,14 +114,14 @@
                 200500.0,
                 400000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "水上行動（主）"
             ],
             "note": [],
-            "page_number": 30
+            "page_number": 19
         },
         {
             "range": [
@@ -132,7 +132,7 @@
                 400000.0,
                 700000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -140,7 +140,7 @@
                 "標準頻率與時間信號（主）"
             ],
             "note": [],
-            "page_number": 30
+            "page_number": 19
         },
         {
             "range": [
@@ -151,7 +151,7 @@
                 700000.0,
                 720000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "無線電助航（主）",
@@ -159,7 +159,7 @@
                 "水上行動（次）"
             ],
             "note": [],
-            "page_number": 30
+            "page_number": 19
         },
         {
             "range": [
@@ -170,7 +170,7 @@
                 720000.0,
                 840000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -179,7 +179,7 @@
                 "標準頻率與時間信號（主）"
             ],
             "note": [],
-            "page_number": 30
+            "page_number": 19
         },
         {
             "range": [
@@ -190,7 +190,7 @@
                 840000.0,
                 860000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "無線電助航（主）",
@@ -198,7 +198,7 @@
                 "水上行動（次）"
             ],
             "note": [],
-            "page_number": 30
+            "page_number": 19
         },
         {
             "range": [
@@ -209,7 +209,7 @@
                 860000.0,
                 900000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -217,7 +217,7 @@
                 "無線電助航（主）"
             ],
             "note": [],
-            "page_number": 31
+            "page_number": 20
         },
         {
             "range": [
@@ -228,14 +228,14 @@
                 900000.0,
                 1100000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "無線電助航（主）",
                 "固定（次）"
             ],
             "note": [],
-            "page_number": 31
+            "page_number": 20
         },
         {
             "range": [
@@ -246,7 +246,7 @@
                 1100000.0,
                 1120000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -254,7 +254,7 @@
                 "無線電助航（主）"
             ],
             "note": [],
-            "page_number": 31
+            "page_number": 20
         },
         {
             "range": [
@@ -265,7 +265,7 @@
                 1120000.0,
                 1176000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "無線電助航（主）",
@@ -273,7 +273,7 @@
                 "水上行動（次）"
             ],
             "note": [],
-            "page_number": 31
+            "page_number": 20
         },
         {
             "range": [
@@ -284,7 +284,7 @@
                 1176000.0,
                 1260000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -292,7 +292,7 @@
                 "無線電助航（主）"
             ],
             "note": [],
-            "page_number": 31
+            "page_number": 20
         },
         {
             "range": [
@@ -303,7 +303,7 @@
                 1260000.0,
                 1290000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "無線電助航（主）",
@@ -311,7 +311,7 @@
                 "水上行動（次）"
             ],
             "note": [],
-            "page_number": 31
+            "page_number": 20
         },
         {
             "range": [
@@ -322,7 +322,7 @@
                 1290000.0,
                 1357000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -330,7 +330,7 @@
                 "無線電助航（主）"
             ],
             "note": [],
-            "page_number": 31
+            "page_number": 20
         },
         {
             "range": [
@@ -341,7 +341,7 @@
                 1357000.0,
                 1378000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -350,9 +350,9 @@
                 "業餘（次）"
             ],
             "note": [
-                "135.7-137.8WRC-07決議供業餘業務（次）在不超過1W下使用，我國亦依此規定。"
+                "135.7-137.8WRC-07決議供業餘（次）在不超過1W下使用，我國亦依此規定。"
             ],
-            "page_number": 31
+            "page_number": 20
         },
         {
             "range": [
@@ -363,7 +363,7 @@
                 1378000.0,
                 1600000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -371,7 +371,7 @@
                 "無線電助航（主）"
             ],
             "note": [],
-            "page_number": 31
+            "page_number": 20
         },
         {
             "range": [
@@ -382,14 +382,14 @@
                 1600000.0,
                 1900000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "航空無線電助航（次）"
             ],
             "note": [],
-            "page_number": 32
+            "page_number": 21
         },
         {
             "range": [
@@ -400,13 +400,13 @@
                 1900000.0,
                 2000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空無線電助航"
             ],
             "note": [],
-            "page_number": 32
+            "page_number": 21
         },
         {
             "range": [
@@ -417,14 +417,14 @@
                 2000000.0,
                 2850000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空無線電助航（主）",
                 "航空行動（次）"
             ],
             "note": [],
-            "page_number": 32
+            "page_number": 21
         },
         {
             "range": [
@@ -435,7 +435,7 @@
                 2850000.0,
                 3250000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空無線電助航（主）",
@@ -443,7 +443,7 @@
                 "（主）"
             ],
             "note": [],
-            "page_number": 32
+            "page_number": 21
         },
         {
             "range": [
@@ -454,14 +454,14 @@
                 3250000.0,
                 4050000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空無線電助航（主）",
                 "航空行動（次）"
             ],
             "note": [],
-            "page_number": 32
+            "page_number": 21
         },
         {
             "range": [
@@ -472,14 +472,14 @@
                 4050000.0,
                 4150000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "無線電助航（主）",
                 "航空行動（次）"
             ],
             "note": [],
-            "page_number": 32
+            "page_number": 21
         },
         {
             "range": [
@@ -490,14 +490,14 @@
                 4150000.0,
                 4720000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動（主）",
                 "航空無線電助航（次）"
             ],
             "note": [],
-            "page_number": 32
+            "page_number": 21
         },
         {
             "range": [
@@ -508,7 +508,7 @@
                 4720000.0,
                 4790000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動（主）",
@@ -516,7 +516,7 @@
                 "業餘（次）"
             ],
             "note": [],
-            "page_number": 32
+            "page_number": 21
         },
         {
             "range": [
@@ -527,14 +527,14 @@
                 4790000.0,
                 4950000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動（主）",
                 "航空無線電助航（次）"
             ],
             "note": [],
-            "page_number": 32
+            "page_number": 21
         },
         {
             "range": [
@@ -545,15 +545,13 @@
                 4950000.0,
                 5050000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
-                "行動（遇險與呼叫）"
+                "水上行動（主）"
             ],
-            "note": [
-                "WRC-07決議495-505kHz限定為radiotelegraphy使用"
-            ],
-            "page_number": 32
+            "note": [],
+            "page_number": 21
         },
         {
             "range": [
@@ -564,7 +562,7 @@
                 5050000.0,
                 5265000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動（主）",
@@ -573,7 +571,7 @@
                 "陸地行動（次）"
             ],
             "note": [],
-            "page_number": 32
+            "page_number": 21
         },
         {
             "range": [
@@ -584,15 +582,15 @@
                 5265000.0,
                 16065000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "廣播"
             ],
             "note": [
-                "供AM廣播業務使用"
+                "供AM廣播使用"
             ],
-            "page_number": 33
+            "page_number": 22
         },
         {
             "range": [
@@ -603,7 +601,7 @@
                 16065000.0,
                 18000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -614,7 +612,7 @@
             "note": [
                 "1665-1789供有線電話無線主副機（次）[1.6/49MHz]使用"
             ],
-            "page_number": 33
+            "page_number": 22
         },
         {
             "range": [
@@ -625,16 +623,16 @@
                 18000000.0,
                 19000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "業餘（主）",
                 "固定（主）"
             ],
             "note": [
-                "1800-1900供業餘無線電業務使用"
+                "1800-1900供業餘無線電使用"
             ],
-            "page_number": 33
+            "page_number": 22
         },
         {
             "range": [
@@ -645,7 +643,7 @@
                 19000000.0,
                 20000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -654,7 +652,7 @@
                 "無線電定位（主）"
             ],
             "note": [],
-            "page_number": 33
+            "page_number": 22
         },
         {
             "range": [
@@ -665,14 +663,14 @@
                 20000000.0,
                 20650000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 33
+            "page_number": 22
         },
         {
             "range": [
@@ -683,13 +681,13 @@
                 20650000.0,
                 21070000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動"
             ],
             "note": [],
-            "page_number": 33
+            "page_number": 22
         },
         {
             "range": [
@@ -700,14 +698,14 @@
                 21070000.0,
                 21700000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 33
+            "page_number": 22
         },
         {
             "range": [
@@ -718,13 +716,13 @@
                 21700000.0,
                 21735000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動"
             ],
             "note": [],
-            "page_number": 33
+            "page_number": 22
         },
         {
             "range": [
@@ -735,13 +733,13 @@
                 21735000.0,
                 21905000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "行動（遇險與呼叫）"
             ],
             "note": [],
-            "page_number": 33
+            "page_number": 22
         },
         {
             "range": [
@@ -752,13 +750,13 @@
                 21905000.0,
                 21940000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動"
             ],
             "note": [],
-            "page_number": 33
+            "page_number": 22
         },
         {
             "range": [
@@ -769,14 +767,14 @@
                 21940000.0,
                 23000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 33
+            "page_number": 22
         },
         {
             "range": [
@@ -787,7 +785,7 @@
                 23000000.0,
                 24950000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -795,7 +793,7 @@
                 "廣播（主）"
             ],
             "note": [],
-            "page_number": 34
+            "page_number": 23
         },
         {
             "range": [
@@ -806,14 +804,14 @@
                 24950000.0,
                 25010000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "標準頻率與時間信號",
                 "（2500 kHz）"
             ],
             "note": [],
-            "page_number": 34
+            "page_number": 23
         },
         {
             "range": [
@@ -824,14 +822,14 @@
                 25010000.0,
                 25020000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "標準頻率與時間信號（主）",
                 "太空研究（次）"
             ],
             "note": [],
-            "page_number": 34
+            "page_number": 23
         },
         {
             "range": [
@@ -842,13 +840,13 @@
                 25020000.0,
                 25050000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "標準頻率與時間信號"
             ],
             "note": [],
-            "page_number": 34
+            "page_number": 23
         },
         {
             "range": [
@@ -859,14 +857,14 @@
                 25050000.0,
                 28500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 34
+            "page_number": 23
         },
         {
             "range": [
@@ -877,13 +875,13 @@
                 28500000.0,
                 30250000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（R）"
             ],
             "note": [],
-            "page_number": 34
+            "page_number": 23
         },
         {
             "range": [
@@ -894,13 +892,13 @@
                 30250000.0,
                 31550000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（OR）"
             ],
             "note": [],
-            "page_number": 34
+            "page_number": 23
         },
         {
             "range": [
@@ -911,14 +909,14 @@
                 31550000.0,
                 32000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "外"
             ],
             "note": [],
-            "page_number": 34
+            "page_number": 23
         },
         {
             "range": [
@@ -929,7 +927,7 @@
                 32000000.0,
                 32300000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -937,7 +935,7 @@
                 "廣播（主）"
             ],
             "note": [],
-            "page_number": 34
+            "page_number": 23
         },
         {
             "range": [
@@ -948,7 +946,7 @@
                 32300000.0,
                 34000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -956,7 +954,7 @@
                 "廣播（主）"
             ],
             "note": [],
-            "page_number": 34
+            "page_number": 23
         },
         {
             "range": [
@@ -967,13 +965,13 @@
                 34000000.0,
                 35000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（R）"
             ],
             "note": [],
-            "page_number": 34
+            "page_number": 23
         },
         {
             "range": [
@@ -984,7 +982,7 @@
                 35000000.0,
                 39000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "業餘（主）",
@@ -992,9 +990,9 @@
                 "行動（主）"
             ],
             "note": [
-                "3500-3512.5,3550-3562.5供業餘無線電業務使用"
+                "3500-3512.5,3550-3562.5供業餘無線電使用"
             ],
-            "page_number": 35
+            "page_number": 24
         },
         {
             "range": [
@@ -1005,14 +1003,14 @@
                 39000000.0,
                 39500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（主）",
                 "廣播（主）"
             ],
             "note": [],
-            "page_number": 35
+            "page_number": 24
         },
         {
             "range": [
@@ -1023,14 +1021,14 @@
                 39500000.0,
                 40000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "廣播（主）"
             ],
             "note": [],
-            "page_number": 35
+            "page_number": 24
         },
         {
             "range": [
@@ -1041,16 +1039,16 @@
                 40000000.0,
                 40630000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "水上行動（主）"
             ],
             "note": [
-                "4000-4063供船舶行動業務使用"
+                "4000-4063供船舶行動通信使用"
             ],
-            "page_number": 35
+            "page_number": 24
         },
         {
             "range": [
@@ -1061,13 +1059,13 @@
                 40630000.0,
                 44380000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動"
             ],
             "note": [],
-            "page_number": 35
+            "page_number": 24
         },
         {
             "range": [
@@ -1078,7 +1076,7 @@
                 44380000.0,
                 44880000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -1086,7 +1084,7 @@
                 "無線電定位（次）"
             ],
             "note": [],
-            "page_number": 35
+            "page_number": 24
         },
         {
             "range": [
@@ -1097,14 +1095,14 @@
                 44880000.0,
                 46500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（主），航空行動除外"
             ],
             "note": [],
-            "page_number": 35
+            "page_number": 24
         },
         {
             "range": [
@@ -1115,13 +1113,13 @@
                 46500000.0,
                 47000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（R）"
             ],
             "note": [],
-            "page_number": 35
+            "page_number": 24
         },
         {
             "range": [
@@ -1132,13 +1130,13 @@
                 47000000.0,
                 47500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（OR）"
             ],
             "note": [],
-            "page_number": 35
+            "page_number": 24
         },
         {
             "range": [
@@ -1149,7 +1147,7 @@
                 47500000.0,
                 48500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -1157,7 +1155,7 @@
                 "陸地行動（次）"
             ],
             "note": [],
-            "page_number": 35
+            "page_number": 24
         },
         {
             "range": [
@@ -1168,7 +1166,7 @@
                 48500000.0,
                 49950000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -1176,7 +1174,7 @@
                 "廣播（主）"
             ],
             "note": [],
-            "page_number": 35
+            "page_number": 24
         },
         {
             "range": [
@@ -1187,14 +1185,14 @@
                 49950000.0,
                 50030000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "標準頻率與時間信號",
                 "（5000 kHz）"
             ],
             "note": [],
-            "page_number": 35
+            "page_number": 24
         },
         {
             "range": [
@@ -1205,14 +1203,14 @@
                 50030000.0,
                 50050000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "標準頻率與時間信號（主）",
                 "太空研究（次）"
             ],
             "note": [],
-            "page_number": 36
+            "page_number": 25
         },
         {
             "range": [
@@ -1223,14 +1221,14 @@
                 50050000.0,
                 50600000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "廣播（主）"
             ],
             "note": [],
-            "page_number": 36
+            "page_number": 25
         },
         {
             "range": [
@@ -1241,14 +1239,14 @@
                 50600000.0,
                 52500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（次），航空行動除外"
             ],
             "note": [],
-            "page_number": 36
+            "page_number": 25
         },
         {
             "range": [
@@ -1259,7 +1257,7 @@
                 52500000.0,
                 52750000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -1267,7 +1265,7 @@
                 "無線電定位（次）"
             ],
             "note": [],
-            "page_number": 36
+            "page_number": 25
         },
         {
             "range": [
@@ -1278,14 +1276,14 @@
                 52750000.0,
                 53515000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（主），航空行動除外"
             ],
             "note": [],
-            "page_number": 36
+            "page_number": 25
         },
         {
             "range": [
@@ -1296,14 +1294,14 @@
                 53515000.0,
                 53665000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（主），航空行動除外"
             ],
             "note": [],
-            "page_number": 36
+            "page_number": 25
         },
         {
             "range": [
@@ -1314,14 +1312,14 @@
                 53665000.0,
                 54500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（主），航空行動除外"
             ],
             "note": [],
-            "page_number": 36
+            "page_number": 25
         },
         {
             "range": [
@@ -1332,7 +1330,7 @@
                 54500000.0,
                 54800000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -1340,7 +1338,7 @@
                 "陸地行動（主）"
             ],
             "note": [],
-            "page_number": 36
+            "page_number": 25
         },
         {
             "range": [
@@ -1351,13 +1349,13 @@
                 54800000.0,
                 56800000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（R）"
             ],
             "note": [],
-            "page_number": 36
+            "page_number": 25
         },
         {
             "range": [
@@ -1368,13 +1366,13 @@
                 56800000.0,
                 57300000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（OR）"
             ],
             "note": [],
-            "page_number": 36
+            "page_number": 25
         },
         {
             "range": [
@@ -1385,14 +1383,14 @@
                 57300000.0,
                 59000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
-                "外"
+                "行動（次），航空行動（R）除外"
             ],
             "note": [],
-            "page_number": 36
+            "page_number": 25
         },
         {
             "range": [
@@ -1403,15 +1401,15 @@
                 59000000.0,
                 62000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "廣播"
             ],
             "note": [
-                "5900-5950WARC-92決議現有固定及行動業務於公元2007年4月1日前遷讓供國際高頻廣播業務使用，我國依業者需求開放使用。WRC-07決議此頻段在不妨害廣播業務下，可供固定及行動使用，航空行動(R)除外"
+                "5900-5950WARC-92決議現有固定及行動通信於公元2007年4月1日前遷讓供國際高頻廣播使用，我國依業者需求開放使用。WRC-07決議此頻段在不妨害廣播下，可供固定及行動使用，航空行動(R)除外"
             ],
-            "page_number": 37
+            "page_number": 26
         },
         {
             "range": [
@@ -1422,13 +1420,13 @@
                 62000000.0,
                 65250000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動"
             ],
             "note": [],
-            "page_number": 37
+            "page_number": 26
         },
         {
             "range": [
@@ -1439,13 +1437,13 @@
                 65250000.0,
                 66850000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（R）"
             ],
             "note": [],
-            "page_number": 38
+            "page_number": 27
         },
         {
             "range": [
@@ -1456,13 +1454,13 @@
                 66850000.0,
                 67650000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（OR）"
             ],
             "note": [],
-            "page_number": 38
+            "page_number": 27
         },
         {
             "range": [
@@ -1473,14 +1471,14 @@
                 67650000.0,
                 70000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "外"
             ],
             "note": [],
-            "page_number": 38
+            "page_number": 27
         },
         {
             "range": [
@@ -1491,14 +1489,14 @@
                 70000000.0,
                 71000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "業餘（主）",
                 "衛星業餘（主）"
             ],
             "note": [],
-            "page_number": 38
+            "page_number": 27
         },
         {
             "range": [
@@ -1509,13 +1507,13 @@
                 71000000.0,
                 72000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "業餘"
             ],
             "note": [],
-            "page_number": 38
+            "page_number": 27
         },
         {
             "range": [
@@ -1526,13 +1524,13 @@
                 72000000.0,
                 73000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "廣播"
             ],
             "note": [],
-            "page_number": 38
+            "page_number": 27
         },
         {
             "range": [
@@ -1543,16 +1541,16 @@
                 73000000.0,
                 74500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "廣播"
             ],
             "note": [
-                "7300-7350WARC-92決議現有固定及行動業務將於公元2007年4月1日前遷讓供國際高頻廣播業務使用，我國依業者需求開放使用。WRC-07決議此頻段在不妨害廣播業務下，可供固定及陸地行動業務使用。",
-                "7350-7450WRC-03決議現有固定及行動業務將於公元2009年3月29日前遷讓供國際高頻廣播業務使用"
+                "7300-7350WARC-92決議現有固定及行動通信將於公元2007年4月1日前遷讓供國際高頻廣播使用，我國依業者需求開放使用。WRC-07決議此頻段在不妨害廣播下，可供固定及陸地行動通信使用。",
+                "7350-7450WRC-03決議現有固定及行動通信將於公元2009年3月29日前遷讓供國際高頻廣播使用"
             ],
-            "page_number": 38
+            "page_number": 27
         },
         {
             "range": [
@@ -1563,14 +1561,14 @@
                 74500000.0,
                 81000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "外"
             ],
             "note": [],
-            "page_number": 38
+            "page_number": 27
         },
         {
             "range": [
@@ -1581,14 +1579,14 @@
                 81000000.0,
                 81950000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "水上行動（主）"
             ],
             "note": [],
-            "page_number": 38
+            "page_number": 27
         },
         {
             "range": [
@@ -1599,13 +1597,13 @@
                 81950000.0,
                 88150000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動"
             ],
             "note": [],
-            "page_number": 38
+            "page_number": 27
         },
         {
             "range": [
@@ -1616,13 +1614,13 @@
                 88150000.0,
                 89650000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（R）"
             ],
             "note": [],
-            "page_number": 38
+            "page_number": 27
         },
         {
             "range": [
@@ -1633,13 +1631,13 @@
                 89650000.0,
                 90400000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（OR）"
             ],
             "note": [],
-            "page_number": 38
+            "page_number": 27
         },
         {
             "range": [
@@ -1650,13 +1648,13 @@
                 90400000.0,
                 93050000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定"
             ],
             "note": [],
-            "page_number": 39
+            "page_number": 28
         },
         {
             "range": [
@@ -1667,14 +1665,14 @@
                 93050000.0,
                 93550000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "無線電定位（次）"
             ],
             "note": [],
-            "page_number": 39
+            "page_number": 28
         },
         {
             "range": [
@@ -1685,13 +1683,13 @@
                 93550000.0,
                 94000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定"
             ],
             "note": [],
-            "page_number": 39
+            "page_number": 28
         },
         {
             "range": [
@@ -1702,15 +1700,15 @@
                 94000000.0,
                 99000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "廣播"
             ],
             "note": [
-                "9400-9500WARC-92決議現有固定業務將於公元2007年4月1日前遷讓供國際高頻廣播業務使用，我國依業者需求開放使用。WRC-07決議此頻段在不妨害廣播業務下，可供固定業務使用"
+                "9400-9500WARC-92決議現有固定通信將於公元2007年4月1日前遷讓供國際高頻廣播使用，我國依業者需求開放使用。WRC-07決議此頻段在不妨害廣播下，可供固定通信使用"
             ],
-            "page_number": 39
+            "page_number": 28
         },
         {
             "range": [
@@ -1721,13 +1719,13 @@
                 99000000.0,
                 99950000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定"
             ],
             "note": [],
-            "page_number": 39
+            "page_number": 28
         },
         {
             "range": [
@@ -1738,14 +1736,14 @@
                 99950000.0,
                 100030000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "標準頻率與時間信號",
                 "（10000 kHz）"
             ],
             "note": [],
-            "page_number": 39
+            "page_number": 28
         },
         {
             "range": [
@@ -1756,14 +1754,14 @@
                 100030000.0,
                 100050000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "標準頻率與時間信號（主）",
                 "太空研究（次）"
             ],
             "note": [],
-            "page_number": 39
+            "page_number": 28
         },
         {
             "range": [
@@ -1774,13 +1772,13 @@
                 100050000.0,
                 101000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（R）"
             ],
             "note": [],
-            "page_number": 39
+            "page_number": 28
         },
         {
             "range": [
@@ -1791,13 +1789,13 @@
                 101000000.0,
                 101300000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定"
             ],
             "note": [],
-            "page_number": 39
+            "page_number": 28
         },
         {
             "range": [
@@ -1808,13 +1806,13 @@
                 101300000.0,
                 101500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "業餘"
             ],
             "note": [],
-            "page_number": 39
+            "page_number": 28
         },
         {
             "range": [
@@ -1825,14 +1823,14 @@
                 101500000.0,
                 111750000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "外"
             ],
             "note": [],
-            "page_number": 39
+            "page_number": 28
         },
         {
             "range": [
@@ -1843,13 +1841,13 @@
                 111750000.0,
                 112750000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（OR）"
             ],
             "note": [],
-            "page_number": 39
+            "page_number": 28
         },
         {
             "range": [
@@ -1860,13 +1858,13 @@
                 112750000.0,
                 114000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（R）"
             ],
             "note": [],
-            "page_number": 39
+            "page_number": 28
         },
         {
             "range": [
@@ -1877,13 +1875,13 @@
                 114000000.0,
                 116000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定"
             ],
             "note": [],
-            "page_number": 40
+            "page_number": 29
         },
         {
             "range": [
@@ -1894,16 +1892,16 @@
                 116000000.0,
                 121000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "廣播"
             ],
             "note": [
-                "11600-11650頻段內行動、航空業務及12050-12100頻段內固定業務，WARC-92決議將於公元2007年4月1日前遷讓供國際高頻廣播業務使用，我國依業者需求開放使用",
-                "11600-11650,12050-12100WRC-07決議此頻段在不妨害廣播業務下，可供固定業務使用"
+                "11600-11650頻段內行動、航空及12050-12100頻段內固定通信，WARC-92決議將於公元2007年4月1日前遷讓供國際高頻廣播使用，我國依業者需求開放使用",
+                "11600-11650,12050-12100WRC-07決議此頻段在不妨害廣播下，可供固定通信使用"
             ],
-            "page_number": 40
+            "page_number": 29
         },
         {
             "range": [
@@ -1914,13 +1912,13 @@
                 121000000.0,
                 122300000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定"
             ],
             "note": [],
-            "page_number": 40
+            "page_number": 29
         },
         {
             "range": [
@@ -1931,13 +1929,13 @@
                 122300000.0,
                 132000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動"
             ],
             "note": [],
-            "page_number": 40
+            "page_number": 29
         },
         {
             "range": [
@@ -1948,13 +1946,13 @@
                 132000000.0,
                 132600000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（OR）"
             ],
             "note": [],
-            "page_number": 40
+            "page_number": 29
         },
         {
             "range": [
@@ -1965,13 +1963,13 @@
                 132600000.0,
                 133600000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（R）"
             ],
             "note": [],
-            "page_number": 40
+            "page_number": 29
         },
         {
             "range": [
@@ -1982,14 +1980,14 @@
                 133600000.0,
                 134100000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "無線電天文（主）"
             ],
             "note": [],
-            "page_number": 40
+            "page_number": 29
         },
         {
             "range": [
@@ -2000,14 +1998,14 @@
                 134100000.0,
                 134500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "外"
             ],
             "note": [],
-            "page_number": 40
+            "page_number": 29
         },
         {
             "range": [
@@ -2018,7 +2016,7 @@
                 134500000.0,
                 135500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -2026,7 +2024,7 @@
                 "無線電定位（次）"
             ],
             "note": [],
-            "page_number": 40
+            "page_number": 29
         },
         {
             "range": [
@@ -2037,16 +2035,16 @@
                 135500000.0,
                 135700000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "外"
             ],
             "note": [
-                "135607供工、科、醫用設備使用，其他業務應在忍受其干擾之條件下使用"
+                "135607供工、科、醫用設備使用，其他用途應在忍受其干擾之條件下使用"
             ],
-            "page_number": 40
+            "page_number": 29
         },
         {
             "range": [
@@ -2057,16 +2055,16 @@
                 135700000.0,
                 138700000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "廣播"
             ],
             "note": [
-                "13570-13600,13800-13870WARC-92決議現有行動業務將於公元2007年4月1日前遷讓供國際高頻廣播業務使用，我國依業者需求開放使用",
-                "13570-13600,13800-13870WRC-07決議此頻段在不妨害廣播業務下，可供固定及行動使用，航空行動(R)除外"
+                "13570-13600,13800-13870WARC-92決議現有行動通信將於公元2007年4月1日前遷讓供國際高頻廣播使用，我國依業者需求開放使用",
+                "13570-13600,13800-13870WRC-07決議此頻段在不妨害廣播下，可供固定及行動使用，航空行動(R)除外"
             ],
-            "page_number": 41
+            "page_number": 30
         },
         {
             "range": [
@@ -2077,14 +2075,14 @@
                 138700000.0,
                 140000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "外"
             ],
             "note": [],
-            "page_number": 41
+            "page_number": 30
         },
         {
             "range": [
@@ -2095,14 +2093,14 @@
                 140000000.0,
                 142500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "業餘（主）",
                 "衛星業餘（主）"
             ],
             "note": [],
-            "page_number": 41
+            "page_number": 30
         },
         {
             "range": [
@@ -2113,13 +2111,13 @@
                 142500000.0,
                 143500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "業餘"
             ],
             "note": [],
-            "page_number": 41
+            "page_number": 30
         },
         {
             "range": [
@@ -2130,14 +2128,14 @@
                 143500000.0,
                 149900000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "外"
             ],
             "note": [],
-            "page_number": 41
+            "page_number": 30
         },
         {
             "range": [
@@ -2148,14 +2146,14 @@
                 149900000.0,
                 150050000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "標準頻率與時間信號",
                 "（15000 kHz）"
             ],
             "note": [],
-            "page_number": 41
+            "page_number": 30
         },
         {
             "range": [
@@ -2166,14 +2164,14 @@
                 150050000.0,
                 150100000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "標準頻率與時間信號（主）",
                 "太空研究（次）"
             ],
             "note": [],
-            "page_number": 41
+            "page_number": 30
         },
         {
             "range": [
@@ -2184,13 +2182,13 @@
                 150100000.0,
                 151000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（OR）"
             ],
             "note": [],
-            "page_number": 41
+            "page_number": 30
         },
         {
             "range": [
@@ -2201,15 +2199,15 @@
                 151000000.0,
                 158000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "廣播"
             ],
             "note": [
-                "15600-15800WARC-92決議現有固定業務將於公元2007年4月1日前遷讓供國際高頻廣播業務使用，我國依業者需求開放使用。WRC-07決議此頻段在不妨害廣播業務下，可供固定業務使用"
+                "15600-15800WARC-92決議現有固定通信將於公元2007年4月1日前遷讓供國際高頻廣播使用，我國依業者需求開放使用。WRC-07決議此頻段在不妨害廣播下，可供固定通信使用"
             ],
-            "page_number": 41
+            "page_number": 30
         },
         {
             "range": [
@@ -2220,13 +2218,13 @@
                 158000000.0,
                 161000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定"
             ],
             "note": [],
-            "page_number": 42
+            "page_number": 31
         },
         {
             "range": [
@@ -2237,14 +2235,14 @@
                 161000000.0,
                 162000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定",
                 "無線電定位（次）"
             ],
             "note": [],
-            "page_number": 42
+            "page_number": 31
         },
         {
             "range": [
@@ -2255,13 +2253,13 @@
                 162000000.0,
                 163600000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定"
             ],
             "note": [],
-            "page_number": 42
+            "page_number": 31
         },
         {
             "range": [
@@ -2272,13 +2270,13 @@
                 163600000.0,
                 174100000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動"
             ],
             "note": [],
-            "page_number": 42
+            "page_number": 31
         },
         {
             "range": [
@@ -2289,13 +2287,13 @@
                 174100000.0,
                 174800000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定"
             ],
             "note": [],
-            "page_number": 42
+            "page_number": 31
         },
         {
             "range": [
@@ -2306,15 +2304,15 @@
                 174800000.0,
                 179000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "廣播"
             ],
             "note": [
-                "17480-17550WARC-92決議現有固定業務將於公元2007年4月1日前遷讓供國際高頻廣播業務使用，我國依業者需求開放使用。WRC-07決議此頻段在不妨害廣播業務下，可供固定業務使用"
+                "17480-17550WARC-92決議現有固定通信將於公元2007年4月1日前遷讓供國際高頻廣播使用，我國依業者需求開放使用。WRC-07決議此頻段在不妨害廣播下，可供固定通信使用"
             ],
-            "page_number": 42
+            "page_number": 31
         },
         {
             "range": [
@@ -2325,13 +2323,13 @@
                 179000000.0,
                 179700000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（R）"
             ],
             "note": [],
-            "page_number": 42
+            "page_number": 31
         },
         {
             "range": [
@@ -2342,13 +2340,13 @@
                 179700000.0,
                 180300000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（OR）"
             ],
             "note": [],
-            "page_number": 42
+            "page_number": 31
         },
         {
             "range": [
@@ -2359,13 +2357,13 @@
                 180300000.0,
                 180520000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定"
             ],
             "note": [],
-            "page_number": 42
+            "page_number": 31
         },
         {
             "range": [
@@ -2376,14 +2374,14 @@
                 180520000.0,
                 180680000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "太空研究（次）"
             ],
             "note": [],
-            "page_number": 42
+            "page_number": 31
         },
         {
             "range": [
@@ -2394,7 +2392,7 @@
                 180680000.0,
                 181680000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -2403,9 +2401,9 @@
                 "衛星業餘（主）"
             ],
             "note": [
-                "18068-18168供業餘無線電業務使用"
+                "18068-18168供業餘無線電使用"
             ],
-            "page_number": 42
+            "page_number": 31
         },
         {
             "range": [
@@ -2416,14 +2414,14 @@
                 181680000.0,
                 187800000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（次），航空行動除外"
             ],
             "note": [],
-            "page_number": 42
+            "page_number": 31
         },
         {
             "range": [
@@ -2434,13 +2432,13 @@
                 187800000.0,
                 189000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動"
             ],
             "note": [],
-            "page_number": 42
+            "page_number": 31
         },
         {
             "range": [
@@ -2451,15 +2449,15 @@
                 189000000.0,
                 190200000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "廣播"
             ],
             "note": [
-                "WARC-92決議供國際高頻廣播業務使用。WRC-07決議此頻段在不妨害廣播業務下，可供固定業務使用"
+                "WARC-92決議供國際高頻廣播使用。WRC-07決議此頻段在不妨害廣播下，可供固定通信使用"
             ],
-            "page_number": 43
+            "page_number": 32
         },
         {
             "range": [
@@ -2470,13 +2468,13 @@
                 190200000.0,
                 196800000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定"
             ],
             "note": [],
-            "page_number": 43
+            "page_number": 32
         },
         {
             "range": [
@@ -2487,13 +2485,13 @@
                 196800000.0,
                 198000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動"
             ],
             "note": [],
-            "page_number": 43
+            "page_number": 32
         },
         {
             "range": [
@@ -2504,13 +2502,13 @@
                 198000000.0,
                 199900000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定"
             ],
             "note": [],
-            "page_number": 43
+            "page_number": 32
         },
         {
             "range": [
@@ -2521,14 +2519,14 @@
                 199900000.0,
                 199950000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "標準頻率與時間信號（主）",
                 "太空研究（次）"
             ],
             "note": [],
-            "page_number": 43
+            "page_number": 32
         },
         {
             "range": [
@@ -2539,14 +2537,14 @@
                 199950000.0,
                 200100000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "標準頻率與時間信號",
                 "（20000 kHz）"
             ],
             "note": [],
-            "page_number": 43
+            "page_number": 32
         },
         {
             "range": [
@@ -2557,14 +2555,14 @@
                 200100000.0,
                 210000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（次）"
             ],
             "note": [],
-            "page_number": 43
+            "page_number": 32
         },
         {
             "range": [
@@ -2575,14 +2573,14 @@
                 210000000.0,
                 214500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "業餘（主）",
                 "衛星業餘（主）"
             ],
             "note": [],
-            "page_number": 43
+            "page_number": 32
         },
         {
             "range": [
@@ -2593,13 +2591,13 @@
                 214500000.0,
                 218500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "廣播"
             ],
             "note": [],
-            "page_number": 43
+            "page_number": 32
         },
         {
             "range": [
@@ -2610,15 +2608,15 @@
                 218500000.0,
                 219240000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定"
             ],
             "note": [
-                "21870-21924WRC-95決議供固定業務（關於飛航安全）使用"
+                "21870-21924WRC-95決議供固定通信（關於飛航安全）使用"
             ],
-            "page_number": 43
+            "page_number": 32
         },
         {
             "range": [
@@ -2629,13 +2627,13 @@
                 219240000.0,
                 220000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "航空行動（R）"
             ],
             "note": [],
-            "page_number": 43
+            "page_number": 32
         },
         {
             "range": [
@@ -2646,13 +2644,13 @@
                 220000000.0,
                 228550000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動"
             ],
             "note": [],
-            "page_number": 43
+            "page_number": 32
         },
         {
             "range": [
@@ -2663,13 +2661,13 @@
                 228550000.0,
                 230000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定"
             ],
             "note": [],
-            "page_number": 43
+            "page_number": 32
         },
         {
             "range": [
@@ -2680,14 +2678,14 @@
                 230000000.0,
                 232000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "外"
             ],
             "note": [],
-            "page_number": 43
+            "page_number": 32
         },
         {
             "range": [
@@ -2698,16 +2696,16 @@
                 232000000.0,
                 233500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "航空行動（OR）（主）"
             ],
             "note": [
-                "WRC-95決議供固定業務（關於飛航安全）使用"
+                "WRC-95決議供固定通信（關於飛航安全）使用"
             ],
-            "page_number": 44
+            "page_number": 33
         },
         {
             "range": [
@@ -2718,14 +2716,14 @@
                 233500000.0,
                 240000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（主），航空行動除外"
             ],
             "note": [],
-            "page_number": 44
+            "page_number": 33
         },
         {
             "range": [
@@ -2736,14 +2734,14 @@
                 240000000.0,
                 244500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "陸地行動（主）"
             ],
             "note": [],
-            "page_number": 44
+            "page_number": 33
         },
         {
             "range": [
@@ -2754,7 +2752,7 @@
                 244500000.0,
                 246000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -2762,7 +2760,7 @@
                 "無線電定位（次）"
             ],
             "note": [],
-            "page_number": 44
+            "page_number": 33
         },
         {
             "range": [
@@ -2773,14 +2771,14 @@
                 246000000.0,
                 248900000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "陸地行動（主）"
             ],
             "note": [],
-            "page_number": 44
+            "page_number": 33
         },
         {
             "range": [
@@ -2791,7 +2789,7 @@
                 248900000.0,
                 249900000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -2800,9 +2798,9 @@
                 "衛星業餘（主）"
             ],
             "note": [
-                "24890-24990供業餘無線電業務使用"
+                "24890-24990供業餘無線電使用"
             ],
-            "page_number": 44
+            "page_number": 33
         },
         {
             "range": [
@@ -2813,14 +2811,14 @@
                 249900000.0,
                 250050000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "標準頻率與時間信號",
                 "（25000 kHz）"
             ],
             "note": [],
-            "page_number": 44
+            "page_number": 33
         },
         {
             "range": [
@@ -2831,14 +2829,14 @@
                 250050000.0,
                 250100000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "標準頻率與時間信號（主）",
                 "太空研究（次）"
             ],
             "note": [],
-            "page_number": 44
+            "page_number": 33
         },
         {
             "range": [
@@ -2849,14 +2847,14 @@
                 250100000.0,
                 250700000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（主），航空行動除外"
             ],
             "note": [],
-            "page_number": 44
+            "page_number": 33
         },
         {
             "range": [
@@ -2867,13 +2865,13 @@
                 250700000.0,
                 252100000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動"
             ],
             "note": [],
-            "page_number": 44
+            "page_number": 33
         },
         {
             "range": [
@@ -2884,14 +2882,14 @@
                 252100000.0,
                 255500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（主），航空行動除外"
             ],
             "note": [],
-            "page_number": 44
+            "page_number": 33
         },
         {
             "range": [
@@ -2902,13 +2900,13 @@
                 255500000.0,
                 256700000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "無線電天文"
             ],
             "note": [],
-            "page_number": 45
+            "page_number": 34
         },
         {
             "range": [
@@ -2919,13 +2917,13 @@
                 256700000.0,
                 261000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "廣播"
             ],
             "note": [],
-            "page_number": 45
+            "page_number": 34
         },
         {
             "range": [
@@ -2936,13 +2934,13 @@
                 261000000.0,
                 261750000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "水上行動"
             ],
             "note": [],
-            "page_number": 45
+            "page_number": 34
         },
         {
             "range": [
@@ -2953,14 +2951,14 @@
                 261750000.0,
                 262000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（主），航空行動除外"
             ],
             "note": [],
-            "page_number": 45
+            "page_number": 34
         },
         {
             "range": [
@@ -2971,7 +2969,7 @@
                 262000000.0,
                 263500000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
@@ -2979,7 +2977,7 @@
                 "無線電定位（次）"
             ],
             "note": [],
-            "page_number": 45
+            "page_number": 34
         },
         {
             "range": [
@@ -2990,19 +2988,19 @@
                 263500000.0,
                 275000000.0
             ],
-            "unit": "KHz",
+            "unit": "kHz",
             "unit_factor": 10000.0,
             "usage": [
                 "固定（主）",
                 "行動（主），航空行動除外"
             ],
             "note": [
-                "27120163供工、科、醫用設備使用，其他業務須在忍受其干擾之條件下使用",
-                "26965-27405供5W以下民用頻段無線電對講機業務使用",
+                "27120163供工、科、醫用設備使用，其他用途須在忍受其干擾之條件下使用",
+                "26965-27405供5W以下民用頻段無線電對講機使用",
                 "26995、27045、27095、27120、",
                 "27136、27145、27195、27245供4W以下地表模型遙控器、0.75W以下航空模型遙控器（低功率射頻電機）使用"
             ],
-            "page_number": 45
+            "page_number": 34
         },
         {
             "range": [
@@ -3021,7 +3019,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 46
+            "page_number": 35
         },
         {
             "range": [
@@ -3039,9 +3037,9 @@
                 "衛星業餘（主）"
             ],
             "note": [
-                "28.0-29.7供業餘無線電業務使用"
+                "28.0-29.7供業餘無線電使用"
             ],
-            "page_number": 46
+            "page_number": 35
         },
         {
             "range": [
@@ -3059,7 +3057,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 46
+            "page_number": 35
         },
         {
             "range": [
@@ -3079,7 +3077,7 @@
                 "太空研究（主）"
             ],
             "note": [],
-            "page_number": 46
+            "page_number": 35
         },
         {
             "range": [
@@ -3097,7 +3095,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 46
+            "page_number": 35
         },
         {
             "range": [
@@ -3116,7 +3114,7 @@
                 "無線電天文（次）"
             ],
             "note": [],
-            "page_number": 46
+            "page_number": 35
         },
         {
             "range": [
@@ -3134,7 +3132,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 46
+            "page_number": 35
         },
         {
             "range": [
@@ -3153,7 +3151,7 @@
                 "無線電定位（主）"
             ],
             "note": [],
-            "page_number": 46
+            "page_number": 35
         },
         {
             "range": [
@@ -3173,7 +3171,7 @@
                 "太空研究（次）"
             ],
             "note": [],
-            "page_number": 46
+            "page_number": 35
         },
         {
             "range": [
@@ -3192,7 +3190,7 @@
                 "太空研究（次）"
             ],
             "note": [],
-            "page_number": 46
+            "page_number": 35
         },
         {
             "range": [
@@ -3210,9 +3208,9 @@
                 "行動（主）"
             ],
             "note": [
-                "40.680.02供工、科、醫用設備使用，其他業務須在忍受其干擾之條件下使用"
+                "40.680.02供工、科、醫用設備使用，其他用途須在忍受其干擾之條件下使用"
             ],
-            "page_number": 47
+            "page_number": 36
         },
         {
             "range": [
@@ -3231,7 +3229,7 @@
                 "太空研究（次）"
             ],
             "note": [],
-            "page_number": 47
+            "page_number": 36
         },
         {
             "range": [
@@ -3252,7 +3250,7 @@
                 "46.610-46.970,49.670-49.970供有線電話無線主副機（次）[46/49MHz]使用",
                 "49.830-49.890供有線電話無線主副機（次）[1.6/49MHz]使用"
             ],
-            "page_number": 47
+            "page_number": 36
         },
         {
             "range": [
@@ -3274,7 +3272,7 @@
                 "46.610-46.970,49.670-49.970供有線電話無線主副機（次）[46/49MHz]使用",
                 "49.830-49.890供有線電話無線主副機（次）[1.6/49MHz]使用"
             ],
-            "page_number": 47
+            "page_number": 36
         },
         {
             "range": [
@@ -3293,9 +3291,9 @@
                 "業餘（主）"
             ],
             "note": [
-                "50-50.15供業餘無線電業務使用"
+                "50-50.15供業餘無線電使用"
             ],
-            "page_number": 47
+            "page_number": 36
         },
         {
             "range": [
@@ -3313,7 +3311,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 47
+            "page_number": 36
         },
         {
             "range": [
@@ -3333,7 +3331,7 @@
             "note": [
                 "72-72.99供0.75W以下航空模型遙控器（低功率射頻電機）使用"
             ],
-            "page_number": 47
+            "page_number": 36
         },
         {
             "range": [
@@ -3350,7 +3348,7 @@
                 "航空無線電助航"
             ],
             "note": [],
-            "page_number": 47
+            "page_number": 36
         },
         {
             "range": [
@@ -3368,7 +3366,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 47
+            "page_number": 36
         },
         {
             "range": [
@@ -3388,7 +3386,7 @@
             "note": [
                 "75.41-75.99供0.75W以下地表模型遙控器（低功率射頻電機）使用"
             ],
-            "page_number": 48
+            "page_number": 37
         },
         {
             "range": [
@@ -3407,9 +3405,9 @@
                 "廣播（主）"
             ],
             "note": [
-                "88-108供FM廣播業務使用"
+                "88-108供FM廣播使用"
             ],
-            "page_number": 48
+            "page_number": 37
         },
         {
             "range": [
@@ -3426,9 +3424,9 @@
                 "廣播"
             ],
             "note": [
-                "88-108供FM廣播業務使用"
+                "88-108供FM廣播使用"
             ],
-            "page_number": 48
+            "page_number": 37
         },
         {
             "range": [
@@ -3445,9 +3443,9 @@
                 "航空無線電助航"
             ],
             "note": [
-                "WRC-03決議亦分配航空行動（R）業務使用，限符合國際航行標準的導航資料傳送"
+                "WRC-03決議亦分配航空行動（R）使用，限符合國際航行標準的導航資料傳送"
             ],
-            "page_number": 48
+            "page_number": 37
         },
         {
             "range": [
@@ -3466,9 +3464,9 @@
             "note": [
                 "WRC-07決議:",
                 "1.121.5為航空緊急頻率，123.1為121.5之輔助頻率。",
-                "2.依ITU對航空行動業務用於遇險及安全之規定，水上行動亦可使用121.5,123.1頻率"
+                "2.依ITU對航空行動通信用於遇險及安全之規定，水上行動亦可使用121.5,123.1頻率"
             ],
-            "page_number": 48
+            "page_number": 37
         },
         {
             "range": [
@@ -3490,9 +3488,9 @@
                 "外"
             ],
             "note": [
-                "137-138WRC-97決議供衛星行動業務（限於非同步衛星系統）使用"
+                "137-138WRC-97決議供衛星行動通信（限於非同步衛星系統）使用"
             ],
-            "page_number": 48
+            "page_number": 37
         },
         {
             "range": [
@@ -3514,7 +3512,7 @@
                 "外"
             ],
             "note": [],
-            "page_number": 49
+            "page_number": 38
         },
         {
             "range": [
@@ -3536,9 +3534,9 @@
                 "外"
             ],
             "note": [
-                "137-138WRC-97決議供衛星行動業務（限於非同步衛星系統）使用"
+                "137-138WRC-97決議供衛星行動通信（限於非同步衛星系統）使用"
             ],
-            "page_number": 49
+            "page_number": 38
         },
         {
             "range": [
@@ -3560,9 +3558,9 @@
                 "外"
             ],
             "note": [
-                "137-138WRC-97決議供衛星行動業務（限於非同步衛星系統）使用"
+                "137-138WRC-97決議供衛星行動通信（限於非同步衛星系統）使用"
             ],
-            "page_number": 49
+            "page_number": 38
         },
         {
             "range": [
@@ -3581,9 +3579,9 @@
                 "太空研究（太空對地球）（次）"
             ],
             "note": [
-                "139.20875-139.84625供計程車無線電業務使用"
+                "139.20875-139.84625供計程車無線電使用"
             ],
-            "page_number": 49
+            "page_number": 38
         },
         {
             "range": [
@@ -3602,7 +3600,7 @@
                 "太空研究（太空對地球）（主）"
             ],
             "note": [],
-            "page_number": 49
+            "page_number": 38
         },
         {
             "range": [
@@ -3621,7 +3619,7 @@
                 "太空研究（太空對地球）（次）"
             ],
             "note": [],
-            "page_number": 50
+            "page_number": 39
         },
         {
             "range": [
@@ -3639,9 +3637,9 @@
                 "衛星業餘（主）"
             ],
             "note": [
-                "144-146供業餘無線電業務使用"
+                "144-146供業餘無線電使用"
             ],
-            "page_number": 50
+            "page_number": 39
         },
         {
             "range": [
@@ -3660,7 +3658,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 50
+            "page_number": 39
         },
         {
             "range": [
@@ -3679,9 +3677,9 @@
                 "衛星行動（地球對太空）（主）"
             ],
             "note": [
-                "148-150.05WRC-97決議供衛星行動業務（限於非同步衛星系統）使用"
+                "148-150.05WRC-97決議供衛星行動通信（限於非同步衛星系統）使用"
             ],
-            "page_number": 50
+            "page_number": 39
         },
         {
             "range": [
@@ -3695,11 +3693,12 @@
             "unit": "MHz",
             "unit_factor": 10000000.0,
             "usage": [
-                "陸地衛星行動（地球對太空）",
-                "（主）"
+                "衛星行動（地球對太空）（主）"
             ],
-            "note": [],
-            "page_number": 50
+            "note": [
+                "148-150.05WRC-97決議供衛星行動通信（限於非同步衛星系統）使用"
+            ],
+            "page_number": 39
         },
         {
             "range": [
@@ -3717,13 +3716,14 @@
                 "行動（主）"
             ],
             "note": [
-                "156-157.45,160.6-160.975及161.475-162.05供船舶通信業務使用WRC-07決議:",
-                "1.156-156.4875,156.5625-156.7625以上頻段必須優先供水上行動業務使用",
-                "2.156.8為水上行動VHF無線電話業務之國際遇險及安全頻率",
-                "3.156.525為水上行動VHF無線電話業務（使用DSC）之國際遇險及安全頻率WRC-07決議:",
-                "156.8375-157.45,160.6-160.975,161.475-162.05以上頻段必須優先供水上行動業務使用"
+                "156-157.45,160.6-160.975及161.475-162.05供船舶通信使用WRC-07決議:",
+                "1.156-156.4875,156.5625-156.7625以上頻段必須優先供水上行動通信使用",
+                "2.156.8為水上行動VHF無線電話之國際遇險及安全頻率",
+                "3.156.525為水上行動VHF無線電話（使用DSC）之國際遇險及安全頻率WRC-07決議:",
+                "156.8375-157.45,160.6-160.975,",
+                "161.475-162.05以上頻段必須優先供水上行動通信使用"
             ],
-            "page_number": 50
+            "page_number": 39
         },
         {
             "range": [
@@ -3740,13 +3740,14 @@
                 "呼叫）（主）"
             ],
             "note": [
-                "156-157.45,160.6-160.975及161.475-162.05供船舶通信業務使用WRC-07決議:",
-                "1.156-156.4875,156.5625-156.7625以上頻段必須優先供水上行動業務使用",
-                "2.156.8為水上行動VHF無線電話業務之國際遇險及安全頻率",
-                "3.156.525為水上行動VHF無線電話業務（使用DSC）之國際遇險及安全頻率WRC-07決議:",
-                "156.8375-157.45,160.6-160.975,161.475-162.05以上頻段必須優先供水上行動業務使用"
+                "156-157.45,160.6-160.975及161.475-162.05供船舶通信使用WRC-07決議:",
+                "1.156-156.4875,156.5625-156.7625以上頻段必須優先供水上行動通信使用",
+                "2.156.8為水上行動VHF無線電話之國際遇險及安全頻率",
+                "3.156.525為水上行動VHF無線電話（使用DSC）之國際遇險及安全頻率WRC-07決議:",
+                "156.8375-157.45,160.6-160.975,",
+                "161.475-162.05以上頻段必須優先供水上行動通信使用"
             ],
-            "page_number": 50
+            "page_number": 39
         },
         {
             "range": [
@@ -3764,13 +3765,14 @@
                 "行動（主）"
             ],
             "note": [
-                "156-157.45,160.6-160.975及161.475-162.05供船舶通信業務使用WRC-07決議:",
-                "1.156-156.4875,156.5625-156.7625以上頻段必須優先供水上行動業務使用",
-                "2.156.8為水上行動VHF無線電話業務之國際遇險及安全頻率",
-                "3.156.525為水上行動VHF無線電話業務（使用DSC）之國際遇險及安全頻率WRC-07決議:",
-                "156.8375-157.45,160.6-160.975,161.475-162.05以上頻段必須優先供水上行動業務使用"
+                "156-157.45,160.6-160.975及161.475-162.05供船舶通信使用WRC-07決議:",
+                "1.156-156.4875,156.5625-156.7625以上頻段必須優先供水上行動通信使用",
+                "2.156.8為水上行動VHF無線電話之國際遇險及安全頻率",
+                "3.156.525為水上行動VHF無線電話（使用DSC）之國際遇險及安全頻率WRC-07決議:",
+                "156.8375-157.45,160.6-160.975,",
+                "161.475-162.05以上頻段必須優先供水上行動通信使用"
             ],
-            "page_number": 50
+            "page_number": 39
         },
         {
             "range": [
@@ -3788,13 +3790,14 @@
                 "衛星行動（地球對太空）（次）"
             ],
             "note": [
-                "156-157.45,160.6-160.975及161.475-162.05供船舶通信業務使用WRC-07決議:",
-                "1.156-156.4875,156.5625-156.7625以上頻段必須優先供水上行動業務使用",
-                "2.156.8為水上行動VHF無線電話業務之國際遇險及安全頻率",
-                "3.156.525為水上行動VHF無線電話業務（使用DSC）之國際遇險及安全頻率WRC-07決議:",
-                "156.8375-157.45,160.6-160.975,161.475-162.05以上頻段必須優先供水上行動業務使用"
+                "156-157.45,160.6-160.975及161.475-162.05供船舶通信使用WRC-07決議:",
+                "1.156-156.4875,156.5625-156.7625以上頻段必須優先供水上行動通信使用",
+                "2.156.8為水上行動VHF無線電話之國際遇險及安全頻率",
+                "3.156.525為水上行動VHF無線電話（使用DSC）之國際遇險及安全頻率WRC-07決議:",
+                "156.8375-157.45,160.6-160.975,",
+                "161.475-162.05以上頻段必須優先供水上行動通信使用"
             ],
-            "page_number": 50
+            "page_number": 39
         },
         {
             "range": [
@@ -3811,13 +3814,14 @@
                 "水上行動（遇險與呼叫）"
             ],
             "note": [
-                "156-157.45,160.6-160.975及161.475-162.05供船舶通信業務使用WRC-07決議:",
-                "1.156-156.4875,156.5625-156.7625以上頻段必須優先供水上行動業務使用",
-                "2.156.8為水上行動VHF無線電話業務之國際遇險及安全頻率",
-                "3.156.525為水上行動VHF無線電話業務（使用DSC）之國際遇險及安全頻率WRC-07決議:",
-                "156.8375-157.45,160.6-160.975,161.475-162.05以上頻段必須優先供水上行動業務使用"
+                "156-157.45,160.6-160.975及161.475-162.05供船舶通信使用WRC-07決議:",
+                "1.156-156.4875,156.5625-156.7625以上頻段必須優先供水上行動通信使用",
+                "2.156.8為水上行動VHF無線電話之國際遇險及安全頻率",
+                "3.156.525為水上行動VHF無線電話（使用DSC）之國際遇險及安全頻率WRC-07決議:",
+                "156.8375-157.45,160.6-160.975,",
+                "161.475-162.05以上頻段必須優先供水上行動通信使用"
             ],
-            "page_number": 50
+            "page_number": 39
         },
         {
             "range": [
@@ -3835,22 +3839,23 @@
                 "衛星行動（地球對太空）（次）"
             ],
             "note": [
-                "156-157.45,160.6-160.975及161.475-162.05供船舶通信業務使用WRC-07決議:",
-                "1.156-156.4875,156.5625-156.7625以上頻段必須優先供水上行動業務使用",
-                "2.156.8為水上行動VHF無線電話業務之國際遇險及安全頻率",
-                "3.156.525為水上行動VHF無線電話業務（使用DSC）之國際遇險及安全頻率WRC-07決議:",
-                "156.8375-157.45,160.6-160.975,161.475-162.05以上頻段必須優先供水上行動業務使用"
+                "156-157.45,160.6-160.975及161.475-162.05供船舶通信使用WRC-07決議:",
+                "1.156-156.4875,156.5625-156.7625以上頻段必須優先供水上行動通信使用",
+                "2.156.8為水上行動VHF無線電話之國際遇險及安全頻率",
+                "3.156.525為水上行動VHF無線電話（使用DSC）之國際遇險及安全頻率WRC-07決議:",
+                "156.8375-157.45,160.6-160.975,",
+                "161.475-162.05以上頻段必須優先供水上行動通信使用"
             ],
-            "page_number": 50
+            "page_number": 39
         },
         {
             "range": [
                 156.8375,
-                161.9375
+                157.1875
             ],
             "normalized_range": [
                 1568375000.0,
-                1619375000.0
+                1571875000.0
             ],
             "unit": "MHz",
             "unit_factor": 10000000.0,
@@ -3859,13 +3864,70 @@
                 "行動（主）"
             ],
             "note": [
-                "156-157.45,160.6-160.975及161.475-162.05供船舶通信業務使用WRC-07決議:",
-                "1.156-156.4875,156.5625-156.7625以上頻段必須優先供水上行動業務使用",
-                "2.156.8為水上行動VHF無線電話業務之國際遇險及安全頻率",
-                "3.156.525為水上行動VHF無線電話業務（使用DSC）之國際遇險及安全頻率WRC-07決議:",
-                "156.8375-157.45,160.6-160.975,161.475-162.05以上頻段必須優先供水上行動業務使用"
+                "156-157.45,160.6-160.975及161.475-162.05供船舶通信使用WRC-07決議:",
+                "1.156-156.4875,156.5625-156.7625以上頻段必須優先供水上行動通信使用",
+                "2.156.8為水上行動VHF無線電話之國際遇險及安全頻率",
+                "3.156.525為水上行動VHF無線電話（使用DSC）之國際遇險及安全頻率WRC-07決議:",
+                "156.8375-157.45,160.6-160.975,",
+                "161.475-162.05以上頻段必須優先供水上行動通信使用"
             ],
-            "page_number": 50
+            "page_number": 39
+        },
+        {
+            "range": [
+                157.1875,
+                157.3375
+            ],
+            "normalized_range": [
+                1571875000.0,
+                1573375000.0
+            ],
+            "unit": "MHz",
+            "unit_factor": 10000000.0,
+            "usage": [
+                "固定（主）",
+                "行動（主）",
+                "衛星水上行動（次）"
+            ],
+            "note": [],
+            "page_number": 40
+        },
+        {
+            "range": [
+                157.3375,
+                161.7875
+            ],
+            "normalized_range": [
+                1573375000.0,
+                1617875000.0
+            ],
+            "unit": "MHz",
+            "unit_factor": 10000000.0,
+            "usage": [
+                "固定（主）",
+                "行動（主）"
+            ],
+            "note": [],
+            "page_number": 40
+        },
+        {
+            "range": [
+                161.7875,
+                161.9375
+            ],
+            "normalized_range": [
+                1617875000.0,
+                1619375000.0
+            ],
+            "unit": "MHz",
+            "unit_factor": 10000000.0,
+            "usage": [
+                "固定（主）",
+                "行動（主）",
+                "衛星水上行動（次）"
+            ],
+            "note": [],
+            "page_number": 40
         },
         {
             "range": [
@@ -3881,10 +3943,10 @@
             "usage": [
                 "固定（主）",
                 "行動（主）",
-                "衛星水上行動（地球對太空）（次）"
+                "（次）"
             ],
             "note": [],
-            "page_number": 51
+            "page_number": 40
         },
         {
             "range": [
@@ -3903,7 +3965,7 @@
                 "衛星行動（地球對太空）（次）"
             ],
             "note": [],
-            "page_number": 52
+            "page_number": 41
         },
         {
             "range": [
@@ -3922,7 +3984,7 @@
                 "（次）"
             ],
             "note": [],
-            "page_number": 52
+            "page_number": 41
         },
         {
             "range": [
@@ -3941,7 +4003,7 @@
                 "衛星行動（地球對太空）（次）"
             ],
             "note": [],
-            "page_number": 52
+            "page_number": 41
         },
         {
             "range": [
@@ -3958,10 +4020,8 @@
                 "固定（主）",
                 "行動（主）"
             ],
-            "note": [
-                "165.25-166.975供公眾無線電叫人業務使用，期限至106年6月"
-            ],
-            "page_number": 52
+            "note": [],
+            "page_number": 41
         },
         {
             "range": [
@@ -3985,7 +4045,7 @@
                 "223-227計劃供數位廣播使用",
                 "227.1-227.4、229.4-230、231.0-231.9供低功率無線電麥克風及無線耳機使用"
             ],
-            "page_number": 52
+            "page_number": 41
         },
         {
             "range": [
@@ -4008,7 +4068,7 @@
                 "223-227計劃供數位廣播使用",
                 "227.1-227.4、229.4-230、231.0-231.9供低功率無線電麥克風及無線耳機使用"
             ],
-            "page_number": 52
+            "page_number": 41
         },
         {
             "range": [
@@ -4034,7 +4094,7 @@
                 "223-227計劃供數位廣播使用",
                 "227.1-227.4、229.4-230、231.0-231.9供低功率無線電麥克風及無線耳機使用"
             ],
-            "page_number": 52
+            "page_number": 41
         },
         {
             "range": [
@@ -4058,7 +4118,7 @@
                 "223-227計劃供數位廣播使用",
                 "227.1-227.4、229.4-230、231.0-231.9供低功率無線電麥克風及無線耳機使用"
             ],
-            "page_number": 52
+            "page_number": 41
         },
         {
             "range": [
@@ -4076,7 +4136,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 52
+            "page_number": 41
         },
         {
             "range": [
@@ -4095,7 +4155,7 @@
                 "太空作業（太空對地球）（次）"
             ],
             "note": [],
-            "page_number": 53
+            "page_number": 42
         },
         {
             "range": [
@@ -4114,7 +4174,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 54
+            "page_number": 43
         },
         {
             "range": [
@@ -4131,10 +4191,8 @@
                 "固定（主）",
                 "行動（主）"
             ],
-            "note": [
-                "280.5-281.5,284.5-285.5供公眾無線電叫人業務使用，期限至106年6月"
-            ],
-            "page_number": 54
+            "note": [],
+            "page_number": 43
         },
         {
             "range": [
@@ -4153,9 +4211,9 @@
                 "衛星行動（地球對太空）（次）"
             ],
             "note": [
-                "WRC-97決議供衛星行動業務（限於非同步衛星系統）使用"
+                "WRC-97決議供衛星行動通信（限於非同步衛星系統）使用"
             ],
-            "page_number": 54
+            "page_number": 43
         },
         {
             "range": [
@@ -4173,7 +4231,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 54
+            "page_number": 43
         },
         {
             "range": [
@@ -4192,7 +4250,7 @@
                 "無線電天文（主）"
             ],
             "note": [],
-            "page_number": 54
+            "page_number": 43
         },
         {
             "range": [
@@ -4209,7 +4267,7 @@
                 "航空無線電助航"
             ],
             "note": [],
-            "page_number": 54
+            "page_number": 43
         },
         {
             "range": [
@@ -4227,7 +4285,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 54
+            "page_number": 43
         },
         {
             "range": [
@@ -4246,9 +4304,9 @@
                 "衛星行動（太空對地球）（次）"
             ],
             "note": [
-                "WARC-92決議供衛星行動業務（限於非同步衛星系統）使用"
+                "WARC-92決議供衛星行動通信（限於非同步衛星系統）使用"
             ],
-            "page_number": 54
+            "page_number": 43
         },
         {
             "range": [
@@ -4266,7 +4324,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 54
+            "page_number": 43
         },
         {
             "range": [
@@ -4283,9 +4341,9 @@
                 "衛星行動（地球對太空）（主）"
             ],
             "note": [
-                "WRC-97決議供衛星行動業務（限於非同步衛星系統）使用"
+                "WRC-97決議供衛星行動通信（限於非同步衛星系統）使用"
             ],
-            "page_number": 54
+            "page_number": 43
         },
         {
             "range": [
@@ -4303,7 +4361,7 @@
                 "（400.1 MHz）"
             ],
             "note": [],
-            "page_number": 54
+            "page_number": 43
         },
         {
             "range": [
@@ -4324,9 +4382,9 @@
                 "太空作業（太空對地球）（次）"
             ],
             "note": [
-                "WRC-97決議供衛星行動（限於非同步衛星系統）、太空研究（太空人和飛行器通訊）業務使用"
+                "WRC-97決議供衛星行動（限於非同步衛星系統）、太空研究（太空人和飛行器通訊）使用"
             ],
-            "page_number": 55
+            "page_number": 44
         },
         {
             "range": [
@@ -4351,7 +4409,7 @@
             "note": [
                 "401-406供醫療通訊服務發射器（MedicalDeviceRadiocommunicationService,MedRadio）（低功率射頻電機）使用"
             ],
-            "page_number": 55
+            "page_number": 44
         },
         {
             "range": [
@@ -4375,7 +4433,7 @@
             "note": [
                 "401-406供醫療通訊服務發射器（MedicalDeviceRadiocommunicationService,MedRadio）（低功率射頻電機）使用"
             ],
-            "page_number": 55
+            "page_number": 44
         },
         {
             "range": [
@@ -4396,7 +4454,7 @@
             "note": [
                 "401-406供醫療通訊服務發射器（MedicalDeviceRadiocommunicationService,MedRadio）（低功率射頻電機）使用"
             ],
-            "page_number": 55
+            "page_number": 44
         },
         {
             "range": [
@@ -4415,7 +4473,7 @@
             "note": [
                 "406-406.1供緊急指位無線電示標（EPIRB）使用"
             ],
-            "page_number": 55
+            "page_number": 44
         },
         {
             "range": [
@@ -4434,7 +4492,7 @@
                 "無線電天文（主）"
             ],
             "note": [],
-            "page_number": 55
+            "page_number": 44
         },
         {
             "range": [
@@ -4453,9 +4511,9 @@
                 "太空研究（太空對太空）（主）"
             ],
             "note": [
-                "WARC-92決議供太空研究業務使用（太空人和飛行器通訊）"
+                "WARC-92決議供太空研究使用（太空人和飛行器通訊）"
             ],
-            "page_number": 55
+            "page_number": 44
         },
         {
             "range": [
@@ -4476,7 +4534,7 @@
             "note": [
                 "429.1750-429.2375,429.8125-429.9250供0.01W以下無線電數據傳送器（低功率射頻電機）使用"
             ],
-            "page_number": 55
+            "page_number": 44
         },
         {
             "range": [
@@ -4494,9 +4552,9 @@
                 "業餘（次）"
             ],
             "note": [
-                "430-432供業餘無線電業務使用"
+                "430-432供業餘無線電使用"
             ],
-            "page_number": 56
+            "page_number": 45
         },
         {
             "range": [
@@ -4515,9 +4573,9 @@
                 "衛星地球探測（主動式）（次）"
             ],
             "note": [
-                "432-440供業餘無線電業務在次要使用條件下使用"
+                "432-440供業餘無線電在次要使用條件下使用"
             ],
-            "page_number": 56
+            "page_number": 45
         },
         {
             "range": [
@@ -4535,9 +4593,9 @@
                 "業餘（次）"
             ],
             "note": [
-                "432-440供業餘無線電業務在次要使用條件下使用"
+                "432-440供業餘無線電在次要使用條件下使用"
             ],
-            "page_number": 56
+            "page_number": 45
         },
         {
             "range": [
@@ -4558,7 +4616,7 @@
             "note": [
                 "449.7125-449.8250供0.01W以下無線電數據傳送器（低功率射頻電機）使用"
             ],
-            "page_number": 56
+            "page_number": 45
         },
         {
             "range": [
@@ -4576,9 +4634,9 @@
                 "行動（主）"
             ],
             "note": [
-                "454-456,459-460WRC-97決議供衛星行動業務（限於非同步衛星系統）使用"
+                "454-456,459-460WRC-97決議供衛星行動通信（限於非同步衛星系統）使用"
             ],
-            "page_number": 56
+            "page_number": 45
         },
         {
             "range": [
@@ -4599,7 +4657,7 @@
             "note": [
                 "467.5125-467.6750供1W以下低功率無線電對講機（低功率射頻電機）使用"
             ],
-            "page_number": 56
+            "page_number": 45
         },
         {
             "range": [
@@ -4619,12 +4677,12 @@
             ],
             "note": [
                 "480.050-480.400供0.01W以下工業用無線電遙控器（低功率射頻電機）使用",
-                "470-530供固定及行動業務使用",
-                "506.49375-507.11875,522.99375-523.61875供計程車專用無線電業務使用",
-                "507.45-509.9375,523.95-526.4375原使用之中繼式無線電話業務已終止，暫予保留",
+                "470-530供固定及行動通信使用",
+                "506.49375-507.11875,522.99375-523.61875供計程車專用無線電使用",
+                "507.45-509.9375,523.95-526.4375原使用之中繼式無線電話已終止，暫予保留",
                 "485-530供低功率無線電麥克風及無線耳機於禁用警、消頻道及不得干擾合法通信且須忍受合法通信干擾之條件下使用"
             ],
-            "page_number": 56
+            "page_number": 45
         },
         {
             "range": [
@@ -4644,10 +4702,9 @@
                 "無線電助航（主）"
             ],
             "note": [
-                "530-596供數位電視廣播業務使用",
-                "596-608供數位電視使用"
+                "530-608供無線電視使用"
             ],
-            "page_number": 57
+            "page_number": 46
         },
         {
             "range": [
@@ -4666,13 +4723,12 @@
                 "廣播（主）"
             ],
             "note": [
-                "703-803供行動寬頻業務使用",
+                "703-803供行動通信使用",
                 "790-960WRC-07決議可供IMT使用",
-                "614-703、748-758、794-806供低功率無線電麥克風及無線耳機於不得干擾行動寬頻業務且須忍受行動寬頻業務干擾之條件下使用",
-                "825-845,870-890供第三代行動通信業務使用，期限至107年12月",
+                "614-703、748-758、794-806供低功率無線電麥克風及無線耳機於不得干擾行動通信且須忍受行動通信干擾之條件下使用",
                 "839-847供民生公用事業之智慧型讀表系統使用"
             ],
-            "page_number": 57
+            "page_number": 46
         },
         {
             "range": [
@@ -4692,14 +4748,13 @@
                 "無線電定位（次）"
             ],
             "note": [
-                "895-915,940-960供GSM數位式公眾行動電話業務使用，期限至106年6月",
-                "885-915,930-960供行動寬頻業務使用",
+                "885-915,930-960供行動通信使用",
                 "920-925供低功率物聯網設備（低功率射頻電機）在次要條件下使用",
                 "920-928供無線射頻辨識系統（RFID）使用",
                 "922-926供國道高速公路收費系統使用",
                 "926-928供0.5W以下低功率海上活動示標器在海上以次要條件使用"
             ],
-            "page_number": 57
+            "page_number": 46
         },
         {
             "range": [
@@ -4718,14 +4773,13 @@
                 "廣播（主）"
             ],
             "note": [
-                "895-915,940-960供GSM數位式公眾行動電話業務使用，期限至106年6月",
-                "885-915,930-960供行動寬頻業務使用",
+                "885-915,930-960供行動通信使用",
                 "920-925供低功率物聯網設備（低功率射頻電機）在次要條件下使用",
                 "920-928供無線射頻辨識系統（RFID）使用",
                 "922-926供國道高速公路收費系統使用",
                 "926-928供0.5W以下低功率海上活動示標器在海上以次要條件使用"
             ],
-            "page_number": 57
+            "page_number": 46
         },
         {
             "range": [
@@ -4743,7 +4797,7 @@
                 "航空行動（R）（主）"
             ],
             "note": [],
-            "page_number": 57
+            "page_number": 46
         },
         {
             "range": [
@@ -4761,7 +4815,7 @@
                 "（太空對太空）（主）"
             ],
             "note": [],
-            "page_number": 57
+            "page_number": 46
         },
         {
             "range": [
@@ -4781,10 +4835,8 @@
                 "衛星地球探測（主動式）（主）",
                 "太空研究（主動式）（主）"
             ],
-            "note": [
-                "1227.6供GPS業務使用"
-            ],
-            "page_number": 58
+            "note": [],
+            "page_number": 47
         },
         {
             "range": [
@@ -4806,9 +4858,9 @@
                 "業餘（次）"
             ],
             "note": [
-                "1260-1265供業餘無線電業務使用"
+                "1260-1265供業餘無線電使用"
             ],
-            "page_number": 58
+            "page_number": 47
         },
         {
             "range": [
@@ -4828,7 +4880,7 @@
                 "（主）"
             ],
             "note": [],
-            "page_number": 58
+            "page_number": 47
         },
         {
             "range": [
@@ -4845,9 +4897,9 @@
                 "無線電定位"
             ],
             "note": [
-                "1390-1392WRC-03決議亦分配衛星固定（地球對太空）（次）業務使用"
+                "1390-1392WRC-03決議亦分配衛星固定（地球對太空）（次）使用"
             ],
-            "page_number": 58
+            "page_number": 47
         },
         {
             "range": [
@@ -4866,7 +4918,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 58
+            "page_number": 47
         },
         {
             "range": [
@@ -4885,7 +4937,7 @@
                 "行動（主），航空行動除外"
             ],
             "note": [],
-            "page_number": 58
+            "page_number": 47
         },
         {
             "range": [
@@ -4903,9 +4955,9 @@
                 "行動（主）"
             ],
             "note": [
-                "1430-1432WRC-03決議亦分配衛星固定（太空對地球）（次）業務使用"
+                "1430-1432WRC-03決議亦分配衛星固定（太空對地球）（次）使用"
             ],
-            "page_number": 58
+            "page_number": 47
         },
         {
             "range": [
@@ -4925,9 +4977,9 @@
                 "廣播（主）"
             ],
             "note": [
-                "WARC-92決議供數位聲音廣播業務使用"
+                "WARC-92決議供數位聲音廣播使用"
             ],
-            "page_number": 58
+            "page_number": 47
         },
         {
             "range": [
@@ -4945,7 +4997,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 59
+            "page_number": 48
         },
         {
             "range": [
@@ -4961,10 +5013,10 @@
             "usage": [
                 "固定（主）",
                 "行動（主）",
-                "  衛星行動（太空對地球）（主）"
+                "衛星行動（太空對地球）（主）"
             ],
             "note": [],
-            "page_number": 59
+            "page_number": 48
         },
         {
             "range": [
@@ -4985,9 +5037,9 @@
                 "行動（次）"
             ],
             "note": [
-                "1525-1544WRC-2000決議可供IMT-2000衛星通信業務使用"
+                "1525-1544WRC-2000決議可供IMT-2000衛星通信使用"
             ],
-            "page_number": 59
+            "page_number": 48
         },
         {
             "range": [
@@ -5008,7 +5060,7 @@
                 "行動（次）"
             ],
             "note": [],
-            "page_number": 59
+            "page_number": 48
         },
         {
             "range": [
@@ -5025,10 +5077,10 @@
                 "衛星行動（太空對地球）"
             ],
             "note": [
-                "1555-1559WARC-92決議供衛星行動通信業務使用",
-                "1545-1559WRC-2000決議可供IMT-2000衛星通信業務使用"
+                "1555-1559WARC-92決議供衛星行動通信使用",
+                "1545-1559WRC-2000決議可供IMT-2000衛星通信使用"
             ],
-            "page_number": 59
+            "page_number": 48
         },
         {
             "range": [
@@ -5046,10 +5098,8 @@
                 "衛星無線電助航（太空對地球）",
                 "（太空對太空）（主）"
             ],
-            "note": [
-                "1575.42供GPS業務使用"
-            ],
-            "page_number": 59
+            "note": [],
+            "page_number": 48
         },
         {
             "range": [
@@ -5069,10 +5119,10 @@
                 "空）（次）"
             ],
             "note": [
-                "WARC-92決議供衛星行動通信業務使用",
-                "1610-1626.5WRC-2000決議可供IMT-2000衛星通信業務使用"
+                "WARC-92決議供衛星行動通信使用",
+                "1610-1626.5WRC-2000決議可供IMT-2000衛星通信使用"
             ],
-            "page_number": 59
+            "page_number": 48
         },
         {
             "range": [
@@ -5093,16 +5143,16 @@
                 "空）（次）"
             ],
             "note": [],
-            "page_number": 60
+            "page_number": 49
         },
         {
             "range": [
                 1613.8,
-                1626.5
+                1621.35
             ],
             "normalized_range": [
                 16138000000.0,
-                16265000000.0
+                16213500000.0
             ],
             "unit": "MHz",
             "unit_factor": 10000000.0,
@@ -5114,9 +5164,36 @@
                 "衛星行動（太空對地球）（次）"
             ],
             "note": [
-                "1616-1626.5供衛星行動業務使用"
+                "1616-1626.5供衛星行動通信使用"
             ],
-            "page_number": 60
+            "page_number": 49
+        },
+        {
+            "range": [
+                1621.35,
+                1626.5
+            ],
+            "normalized_range": [
+                16213500000.0,
+                16265000000.0
+            ],
+            "unit": "MHz",
+            "unit_factor": 10000000.0,
+            "usage": [
+                "衛星水上行動（太空對地球）",
+                "（主）",
+                "航空無線電助航（主）",
+                "衛星行動（地球對太空）（主）",
+                "衛星無線電測定（地球對太",
+                "空）（次）",
+                "衛星行動（太空對地球）（次）",
+                "，衛星水上行動（太空對地球）",
+                "除外"
+            ],
+            "note": [
+                "1616-1626.5供衛星行動通信使用"
+            ],
+            "page_number": 49
         },
         {
             "range": [
@@ -5133,11 +5210,11 @@
                 "衛星行動（地球對太空）"
             ],
             "note": [
-                "1626.5-1645.5WRC-2000決議可供IMT-2000衛星通信業務使用",
-                "1646.5-1660.5WRC-2000決議可供IMT-2000衛星通信業務使用",
-                "1656.5-1660.5WARC-92決議供衛星行動業務使用"
+                "1626.5-1645.5WRC-2000決議可供IMT-2000衛星通信使用",
+                "1646.5-1660.5WRC-2000決議可供IMT-2000衛星通信使用",
+                "1656.5-1660.5WARC-92決議供衛星行動通信使用"
             ],
-            "page_number": 60
+            "page_number": 49
         },
         {
             "range": [
@@ -5154,11 +5231,11 @@
                 "衛星行動（地球對太空）"
             ],
             "note": [
-                "1626.5-1645.5WRC-2000決議可供IMT-2000衛星通信業務使用",
-                "1646.5-1660.5WRC-2000決議可供IMT-2000衛星通信業務使用",
-                "1656.5-1660.5WARC-92決議供衛星行動業務使用"
+                "1626.5-1645.5WRC-2000決議可供IMT-2000衛星通信使用",
+                "1646.5-1660.5WRC-2000決議可供IMT-2000衛星通信使用",
+                "1656.5-1660.5WARC-92決議供衛星行動通信使用"
             ],
-            "page_number": 60
+            "page_number": 49
         },
         {
             "range": [
@@ -5176,11 +5253,11 @@
                 "無線電天文（主）"
             ],
             "note": [
-                "1626.5-1645.5WRC-2000決議可供IMT-2000衛星通信業務使用",
-                "1646.5-1660.5WRC-2000決議可供IMT-2000衛星通信業務使用",
-                "1656.5-1660.5WARC-92決議供衛星行動業務使用"
+                "1626.5-1645.5WRC-2000決議可供IMT-2000衛星通信使用",
+                "1646.5-1660.5WRC-2000決議可供IMT-2000衛星通信使用",
+                "1656.5-1660.5WARC-92決議供衛星行動通信使用"
             ],
-            "page_number": 60
+            "page_number": 49
         },
         {
             "range": [
@@ -5200,28 +5277,7 @@
                 "行動（次），航空行動除外"
             ],
             "note": [],
-            "page_number": 60
-        },
-        {
-            "range": [
-                1668.0,
-                1668.4
-            ],
-            "normalized_range": [
-                16680000000.0,
-                16684000000.0
-            ],
-            "unit": "MHz",
-            "unit_factor": 10000000.0,
-            "usage": [
-                "衛星行動（地球對太空）（主）",
-                "無線電天文（主）",
-                "太空研究（被動式）（主）",
-                "固定（次）",
-                "行動（次），航空行動除外"
-            ],
-            "note": [],
-            "page_number": 60
+            "page_number": 49
         },
         {
             "range": [
@@ -5244,7 +5300,7 @@
             "note": [
                 "1668.4-1675WRC-03決議氣象輔助應儘速遷讓至其他可用頻帶"
             ],
-            "page_number": 61
+            "page_number": 51
         },
         {
             "range": [
@@ -5265,7 +5321,7 @@
                 "衛星行動（地球對太空）（主）"
             ],
             "note": [],
-            "page_number": 61
+            "page_number": 51
         },
         {
             "range": [
@@ -5285,7 +5341,7 @@
                 "行動（主），航空行動除外"
             ],
             "note": [],
-            "page_number": 61
+            "page_number": 51
         },
         {
             "range": [
@@ -5303,7 +5359,7 @@
                 "衛星氣象（太空對地球）（主）"
             ],
             "note": [],
-            "page_number": 61
+            "page_number": 51
         },
         {
             "range": [
@@ -5322,7 +5378,7 @@
                 "行動（主），航空行動除外"
             ],
             "note": [],
-            "page_number": 61
+            "page_number": 51
         },
         {
             "range": [
@@ -5340,13 +5396,12 @@
                 "行動（主）"
             ],
             "note": [
-                "1710-1885WRC-07決議可供IMT使用，WRC-2000決議可供IMT-2000業務使用",
-                "1710-1755,1805-1850供公眾行動電話業務使用，期限至106年6月",
-                "1710-1785,1805-1880供行動寬頻業務使用",
+                "1710-1885WRC-07決議可供IMT使用，WRC-2000決議可供IMT-2000使用",
+                "1710-1785,1805-1880供行動通信使用",
                 "1880-1895供室內用無線專用交換機（WirelessPABX）及家用有線電話無線主副機（CordlessPhone）使用",
-                "1790-1805供低功率無線電麥克風及無線耳機於不得干擾行動寬頻業務且須忍受行動寬頻業務干擾之條件下使用"
+                "1790-1805供低功率無線電麥克風及無線耳機於不得干擾行動通信且須忍受行動通信干擾之條件下使用"
             ],
-            "page_number": 61
+            "page_number": 51
         },
         {
             "range": [
@@ -5365,13 +5420,12 @@
                 "衛星行動（地球對太空）（主）"
             ],
             "note": [
-                "1710-1885WRC-07決議可供IMT使用，WRC-2000決議可供IMT-2000業務使用",
-                "1710-1755,1805-1850供公眾行動電話業務使用，期限至106年6月",
-                "1710-1785,1805-1880供行動寬頻業務使用",
+                "1710-1885WRC-07決議可供IMT使用，WRC-2000決議可供IMT-2000使用",
+                "1710-1785,1805-1880供行動通信使用",
                 "1880-1895供室內用無線專用交換機（WirelessPABX）及家用有線電話無線主副機（CordlessPhone）使用",
-                "1790-1805供低功率無線電麥克風及無線耳機於不得干擾行動寬頻業務且須忍受行動寬頻業務干擾之條件下使用"
+                "1790-1805供低功率無線電麥克風及無線耳機於不得干擾行動通信且須忍受行動通信干擾之條件下使用"
             ],
-            "page_number": 61
+            "page_number": 51
         },
         {
             "range": [
@@ -5389,12 +5443,11 @@
                 "行動（主）"
             ],
             "note": [
-                "1885-1980,2010-2025WRC-2000決議可供IMT-2000通信業務高空平台（HAPS）使用",
-                "1920-1980供行動寬頻業務使用",
-                "1980-2010WARC-92決議供衛星行動業務使用",
-                "1915-1975,2010-2025,2110-2165供第三代行動通信業務使用，期限至107年12月"
+                "1885-1980,2010-2025WRC-2000決議可供IMT-2000通信高空平台（HAPS）使用",
+                "1920-1980供行動通信使用",
+                "1980-2010WARC-92決議供衛星行動通信使用"
             ],
-            "page_number": 62
+            "page_number": 52
         },
         {
             "range": [
@@ -5414,11 +5467,11 @@
                 "對太空）（主）",
                 "太空作業（地球對太空）（太空",
                 "對太空）（主）",
-                "衛星地球探測（地球對太空）",
+                "  衛星地球探測（地球對太空）",
                 "（太空對太空）（主）"
             ],
             "note": [],
-            "page_number": 62
+            "page_number": 52
         },
         {
             "range": [
@@ -5438,13 +5491,11 @@
                 "空）（主）"
             ],
             "note": [
-                "2110-2200計劃供IMT-2000業務使用",
-                "2110-2165供第三代行動通信業務使用，期限至107年12月",
-                "2110-2170WRC-2000決議可供IMT-2000通信業務高空平台（HAPS）使用",
-                "2110-2170供行動寬頻業務使用",
-                "2170-2200WARC-92決議供衛星行動業務使用"
+                "2110-2200計劃供IMT-2000使用",
+                "2110-2170WRC-2000決議可供IMT-2000通信高空平台（HAPS）使用",
+                "2110-2170供行動通信使用"
             ],
-            "page_number": 62
+            "page_number": 52
         },
         {
             "range": [
@@ -5462,13 +5513,11 @@
                 "行動（主）"
             ],
             "note": [
-                "2110-2200計劃供IMT-2000業務使用",
-                "2110-2165供第三代行動通信業務使用，期限至107年12月",
-                "2110-2170WRC-2000決議可供IMT-2000通信業務高空平台（HAPS）使用",
-                "2110-2170供行動寬頻業務使用",
-                "2170-2200WARC-92決議供衛星行動業務使用"
+                "2110-2200計劃供IMT-2000使用",
+                "2110-2170WRC-2000決議可供IMT-2000通信高空平台（HAPS）使用",
+                "2110-2170供行動通信使用"
             ],
-            "page_number": 62
+            "page_number": 52
         },
         {
             "range": [
@@ -5487,13 +5536,9 @@
                 "衛星行動（太空對地球）（主）"
             ],
             "note": [
-                "2110-2200計劃供IMT-2000業務使用",
-                "2110-2165供第三代行動通信業務使用，期限至107年12月",
-                "2110-2170WRC-2000決議可供IMT-2000通信業務高空平台（HAPS）使用",
-                "2110-2170供行動寬頻業務使用",
-                "2170-2200WARC-92決議供衛星行動業務使用"
+                "2170-2200WARC-92決議供衛星行動通信使用"
             ],
-            "page_number": 62
+            "page_number": 52
         },
         {
             "range": [
@@ -5517,7 +5562,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 63
+            "page_number": 53
         },
         {
             "range": [
@@ -5537,7 +5582,7 @@
                 "球）（主）"
             ],
             "note": [],
-            "page_number": 63
+            "page_number": 53
         },
         {
             "range": [
@@ -5558,13 +5603,13 @@
             ],
             "note": [
                 "2300-2400WRC-07決議可供IMT使用",
-                "2400-2483.5供低功率射頻電機業務在次要條件下使用",
+                "2400-2483.5供低功率射頻電機在次要條件下使用",
                 "2400-2483.5計劃供有線電話無線主副機使用",
-                "2440-2450供業餘無線電業務在次要條件下使用",
-                "245050供工、科、醫用設備使用，其他業務須在忍受其干擾之條件下使用",
+                "2440-2450供業餘無線電在次要條件下使用",
+                "245050供工、科、醫用設備使用，其他用途須在忍受其干擾之條件下使用",
                 "2450-2500供廣播電視現場節目轉播使用"
             ],
-            "page_number": 63
+            "page_number": 53
         },
         {
             "range": [
@@ -5584,13 +5629,13 @@
             ],
             "note": [
                 "2300-2400WRC-07決議可供IMT使用",
-                "2400-2483.5供低功率射頻電機業務在次要條件下使用",
+                "2400-2483.5供低功率射頻電機在次要條件下使用",
                 "2400-2483.5計劃供有線電話無線主副機使用",
-                "2440-2450供業餘無線電業務在次要條件下使用",
-                "245050供工、科、醫用設備使用，其他業務須在忍受其干擾之條件下使用",
+                "2440-2450供業餘無線電在次要條件下使用",
+                "245050供工、科、醫用設備使用，其他用途須在忍受其干擾之條件下使用",
                 "2450-2500供廣播電視現場節目轉播使用"
             ],
-            "page_number": 63
+            "page_number": 53
         },
         {
             "range": [
@@ -5611,10 +5656,10 @@
                 "（主）"
             ],
             "note": [
-                "WARC-92決議供衛星行動業務使用",
-                "2483.5-2500WRC-2000決議可供IMT-2000衛星通信業務使用"
+                "WARC-92決議供衛星行動通信使用",
+                "2483.5-2500WRC-2000決議可供IMT-2000衛星通信使用"
             ],
-            "page_number": 63
+            "page_number": 53
         },
         {
             "range": [
@@ -5634,13 +5679,13 @@
                 "衛星行動（太空對地球）（主）"
             ],
             "note": [
-                "2500-2690WRC-07決議可供IMT使用，WRC-2000決議可供IMT-2000業務使用",
-                "2500-2690供行動寬頻業務使用",
-                "2500-2520WRC-2000決議可供IMT-2000衛星通信業務使用WARC-92決議供衛星數位語音廣播業務使用",
-                "2630-2655WRC-03決議供衛星數位語音廣播業務（非同步衛星）使用WARC-92決議供衛星行動業務使用",
-                "2670-2690WRC-2000決議可供IMT-2000衛星通信業務使用"
+                "2500-2690WRC-07決議可供IMT使用，WRC-2000決議可供IMT-2000使用",
+                "2500-2690供行動通信使用",
+                "2500-2520WRC-2000決議可供IMT-2000衛星通信使用WARC-92決議供衛星數位語音廣播使用",
+                "2630-2655WRC-03決議供衛星數位語音廣播（非同步衛星）使用WARC-92決議供衛星行動通信使用",
+                "2670-2690WRC-2000決議可供IMT-2000衛星通信使用"
             ],
-            "page_number": 64
+            "page_number": 54
         },
         {
             "range": [
@@ -5660,13 +5705,13 @@
                 "衛星廣播（主）"
             ],
             "note": [
-                "2500-2690WRC-07決議可供IMT使用，WRC-2000決議可供IMT-2000業務使用",
-                "2500-2690供行動寬頻業務使用",
-                "2500-2520WRC-2000決議可供IMT-2000衛星通信業務使用WARC-92決議供衛星數位語音廣播業務使用",
-                "2630-2655WRC-03決議供衛星數位語音廣播業務（非同步衛星）使用WARC-92決議供衛星行動業務使用",
-                "2670-2690WRC-2000決議可供IMT-2000衛星通信業務使用"
+                "2500-2690WRC-07決議可供IMT使用，WRC-2000決議可供IMT-2000使用",
+                "2500-2690供行動通信使用",
+                "2500-2520WRC-2000決議可供IMT-2000衛星通信使用WARC-92決議供衛星數位語音廣播使用",
+                "2630-2655WRC-03決議供衛星數位語音廣播（非同步衛星）使用WARC-92決議供衛星行動通信使用",
+                "2670-2690WRC-2000決議可供IMT-2000衛星通信使用"
             ],
-            "page_number": 64
+            "page_number": 54
         },
         {
             "range": [
@@ -5685,13 +5730,13 @@
                 "衛星廣播（主）"
             ],
             "note": [
-                "2500-2690WRC-07決議可供IMT使用，WRC-2000決議可供IMT-2000業務使用",
-                "2500-2690供行動寬頻業務使用",
-                "2500-2520WRC-2000決議可供IMT-2000衛星通信業務使用WARC-92決議供衛星數位語音廣播業務使用",
-                "2630-2655WRC-03決議供衛星數位語音廣播業務（非同步衛星）使用WARC-92決議供衛星行動業務使用",
-                "2670-2690WRC-2000決議可供IMT-2000衛星通信業務使用"
+                "2500-2690WRC-07決議可供IMT使用，WRC-2000決議可供IMT-2000使用",
+                "2500-2690供行動通信使用",
+                "2500-2520WRC-2000決議可供IMT-2000衛星通信使用WARC-92決議供衛星數位語音廣播使用",
+                "2630-2655WRC-03決議供衛星數位語音廣播（非同步衛星）使用WARC-92決議供衛星行動通信使用",
+                "2670-2690WRC-2000決議可供IMT-2000衛星通信使用"
             ],
-            "page_number": 64
+            "page_number": 54
         },
         {
             "range": [
@@ -5714,13 +5759,13 @@
                 "太空研究（被動式）（次）"
             ],
             "note": [
-                "2500-2690WRC-07決議可供IMT使用，WRC-2000決議可供IMT-2000業務使用",
-                "2500-2690供行動寬頻業務使用",
-                "2500-2520WRC-2000決議可供IMT-2000衛星通信業務使用WARC-92決議供衛星數位語音廣播業務使用",
-                "2630-2655WRC-03決議供衛星數位語音廣播業務（非同步衛星）使用WARC-92決議供衛星行動業務使用",
-                "2670-2690WRC-2000決議可供IMT-2000衛星通信業務使用"
+                "2500-2690WRC-07決議可供IMT使用，WRC-2000決議可供IMT-2000使用",
+                "2500-2690供行動通信使用",
+                "2500-2520WRC-2000決議可供IMT-2000衛星通信使用WARC-92決議供衛星數位語音廣播使用",
+                "2630-2655WRC-03決議供衛星數位語音廣播（非同步衛星）使用WARC-92決議供衛星行動通信使用",
+                "2670-2690WRC-2000決議可供IMT-2000衛星通信使用"
             ],
-            "page_number": 64
+            "page_number": 54
         },
         {
             "range": [
@@ -5743,13 +5788,13 @@
                 "太空研究（被動式）（次）"
             ],
             "note": [
-                "2500-2690WRC-07決議可供IMT使用，WRC-2000決議可供IMT-2000業務使用",
-                "2500-2690供行動寬頻業務使用",
-                "2500-2520WRC-2000決議可供IMT-2000衛星通信業務使用WARC-92決議供衛星數位語音廣播業務使用",
-                "2630-2655WRC-03決議供衛星數位語音廣播業務（非同步衛星）使用WARC-92決議供衛星行動業務使用",
-                "2670-2690WRC-2000決議可供IMT-2000衛星通信業務使用"
+                "2500-2690WRC-07決議可供IMT使用，WRC-2000決議可供IMT-2000使用",
+                "2500-2690供行動通信使用",
+                "2500-2520WRC-2000決議可供IMT-2000衛星通信使用WARC-92決議供衛星數位語音廣播使用",
+                "2630-2655WRC-03決議供衛星數位語音廣播（非同步衛星）使用WARC-92決議供衛星行動通信使用",
+                "2670-2690WRC-2000決議可供IMT-2000衛星通信使用"
             ],
-            "page_number": 64
+            "page_number": 54
         },
         {
             "range": [
@@ -5768,7 +5813,7 @@
                 "無線電天文（主）"
             ],
             "note": [],
-            "page_number": 64
+            "page_number": 54
         },
         {
             "range": [
@@ -5786,7 +5831,7 @@
                 "無線電定位（次）"
             ],
             "note": [],
-            "page_number": 65
+            "page_number": 55
         },
         {
             "range": [
@@ -5804,7 +5849,7 @@
                 "無線電定位（主）"
             ],
             "note": [],
-            "page_number": 65
+            "page_number": 55
         },
         {
             "range": [
@@ -5823,7 +5868,7 @@
                 "太空研究（主動式）（次）"
             ],
             "note": [],
-            "page_number": 65
+            "page_number": 55
         },
         {
             "range": [
@@ -5842,10 +5887,10 @@
                 "業餘（次）"
             ],
             "note": [
-                "3300-3570供行動寬頻業務使用",
-                "3570-3610僅供行動寬頻業務及衛星固定通信業務間之護衛頻帶使用"
+                "3300-3570供行動通信使用",
+                "3570-3610僅供行動通信及衛星固定通信間之護衛頻帶使用"
             ],
-            "page_number": 65
+            "page_number": 55
         },
         {
             "range": [
@@ -5866,10 +5911,10 @@
                 "無線電定位（次）"
             ],
             "note": [
-                "3300-3570供行動寬頻業務使用",
-                "3570-3610僅供行動寬頻業務及衛星固定通信業務間之護衛頻帶使用"
+                "3300-3570供行動通信使用",
+                "3570-3610僅供行動通信及衛星固定通信間之護衛頻帶使用"
             ],
-            "page_number": 65
+            "page_number": 55
         },
         {
             "range": [
@@ -5889,10 +5934,10 @@
                 "無線電定位（次）"
             ],
             "note": [
-                "3300-3570供行動寬頻業務使用",
-                "3570-3610僅供行動寬頻業務及衛星固定通信業務間之護衛頻帶使用"
+                "3300-3570供行動通信使用",
+                "3570-3610僅供行動通信及衛星固定通信間之護衛頻帶使用"
             ],
-            "page_number": 65
+            "page_number": 55
         },
         {
             "range": [
@@ -5913,7 +5958,7 @@
             "note": [
                 "3700-4200供公眾通信中繼網路使用"
             ],
-            "page_number": 65
+            "page_number": 55
         },
         {
             "range": [
@@ -5934,7 +5979,7 @@
                 "4200-4400WRC-15決議供無線航空電子系統通訊（WirelessAvionicsIntra-Communications,WAIC）使用",
                 "4224-4752供採用超寬頻技術（UWB）之低功率射頻電機在次要條件下使用"
             ],
-            "page_number": 65
+            "page_number": 55
         },
         {
             "range": [
@@ -5952,7 +5997,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 65
+            "page_number": 56
         },
         {
             "range": [
@@ -5971,7 +6016,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 66
+            "page_number": 57
         },
         {
             "range": [
@@ -5992,7 +6037,7 @@
             "note": [
                 "4800-4900供行動寬頻專網於不得干擾合法通信且須忍受合法通信干擾之條件下使用；另依行政院108年12月5日第3679次院會決議，自即日起供各界申請進行場域實驗，並於110年至111年間擇期開放執照申請"
             ],
-            "page_number": 66
+            "page_number": 57
         },
         {
             "range": [
@@ -6012,7 +6057,7 @@
                 "太空研究（被動式）（次）"
             ],
             "note": [],
-            "page_number": 66
+            "page_number": 57
         },
         {
             "range": [
@@ -6031,7 +6076,7 @@
                 "（主）"
             ],
             "note": [],
-            "page_number": 66
+            "page_number": 57
         },
         {
             "range": [
@@ -6050,7 +6095,7 @@
                 "（太空對太空）（主）"
             ],
             "note": [],
-            "page_number": 66
+            "page_number": 57
         },
         {
             "range": [
@@ -6069,7 +6114,7 @@
                 "航空無線電助航（主）"
             ],
             "note": [],
-            "page_number": 66
+            "page_number": 57
         },
         {
             "range": [
@@ -6089,7 +6134,7 @@
                 "航空行動（主）"
             ],
             "note": [],
-            "page_number": 66
+            "page_number": 57
         },
         {
             "range": [
@@ -6110,7 +6155,7 @@
             "note": [
                 "5150-5250供低功率無線資訊傳輸設備（U-NII）於忍受合法通信干擾之條件下使用"
             ],
-            "page_number": 66
+            "page_number": 57
         },
         {
             "range": [
@@ -6133,7 +6178,7 @@
                 "5250-5350供低功率無線資訊傳輸設備（U-NII）於忍受合法通信干擾之條件下使用，使用本頻段之設備須具備動態頻率選擇功能(DynamicFrequencySelection,DFS)",
                 "5250-5350WRC-03決議供無線接取（WAS）系統含無線區域網路（WLAN）使用"
             ],
-            "page_number": 67
+            "page_number": 58
         },
         {
             "range": [
@@ -6156,7 +6201,7 @@
                 "5250-5350供低功率無線資訊傳輸設備（U-NII）於忍受合法通信干擾之條件下使用，使用本頻段之設備須具備動態頻率選擇功能(DynamicFrequencySelection,DFS)",
                 "5250-5350WRC-03決議供無線接取（WAS）系統含無線區域網路（WLAN）使用"
             ],
-            "page_number": 67
+            "page_number": 58
         },
         {
             "range": [
@@ -6176,7 +6221,7 @@
                 "無線電定位（主）"
             ],
             "note": [],
-            "page_number": 67
+            "page_number": 58
         },
         {
             "range": [
@@ -6196,7 +6241,7 @@
                 "無線電定位（主）"
             ],
             "note": [],
-            "page_number": 67
+            "page_number": 58
         },
         {
             "range": [
@@ -6220,7 +6265,7 @@
                 "5470-5725WRC-03決議供無線接取（WAS）系統，含無線區域網路（WLAN）使用",
                 "5470-5725供低功率無線資訊傳輸設備（U-NII）於忍受合法通信干擾之條件下使用，使用本頻段之設備須具備動態頻率選擇功能(DynamicFrequencySelection,DFS)"
             ],
-            "page_number": 67
+            "page_number": 58
         },
         {
             "range": [
@@ -6242,7 +6287,7 @@
                 "5470-5725WRC-03決議供無線接取（WAS）系統，含無線區域網路（WLAN）使用",
                 "5470-5725供低功率無線資訊傳輸設備（U-NII）於忍受合法通信干擾之條件下使用，使用本頻段之設備須具備動態頻率選擇功能(DynamicFrequencySelection,DFS)"
             ],
-            "page_number": 67
+            "page_number": 58
         },
         {
             "range": [
@@ -6265,7 +6310,7 @@
                 "5470-5725WRC-03決議供無線接取（WAS）系統，含無線區域網路（WLAN）使用",
                 "5470-5725供低功率無線資訊傳輸設備（U-NII）於忍受合法通信干擾之條件下使用，使用本頻段之設備須具備動態頻率選擇功能(DynamicFrequencySelection,DFS)"
             ],
-            "page_number": 67
+            "page_number": 58
         },
         {
             "range": [
@@ -6285,9 +6330,9 @@
             "note": [
                 "5725-5850供業餘無線電在次要使用條件下使用",
                 "5725-5850供低功率無線資訊傳輸設備（U-NII）於忍受合法通信干擾之條件下使用",
-                "580075供工、科、醫用設備使用，其他業務須在忍受其干擾之條件下使用，本頻段亦分配供低功率射頻電機業務在次要使用條件下使用"
+                "580075供工、科、醫用設備使用，其他用途須在忍受其干擾之條件下使用，本頻段亦分配供低功率射頻電機在次要使用條件下使用"
             ],
-            "page_number": 68
+            "page_number": 59
         },
         {
             "range": [
@@ -6308,9 +6353,9 @@
             "note": [
                 "5725-5850供業餘無線電在次要使用條件下使用",
                 "5725-5850供低功率無線資訊傳輸設備（U-NII）於忍受合法通信干擾之條件下使用",
-                "580075供工、科、醫用設備使用，其他業務須在忍受其干擾之條件下使用，本頻段亦分配供低功率射頻電機業務在次要使用條件下使用"
+                "580075供工、科、醫用設備使用，其他用途須在忍受其干擾之條件下使用，本頻段亦分配供低功率射頻電機在次要使用條件下使用"
             ],
-            "page_number": 68
+            "page_number": 59
         },
         {
             "range": [
@@ -6332,9 +6377,9 @@
             "note": [
                 "5725-5850供業餘無線電在次要使用條件下使用",
                 "5725-5850供低功率無線資訊傳輸設備（U-NII）於忍受合法通信干擾之條件下使用",
-                "580075供工、科、醫用設備使用，其他業務須在忍受其干擾之條件下使用，本頻段亦分配供低功率射頻電機業務在次要使用條件下使用"
+                "580075供工、科、醫用設備使用，其他用途須在忍受其干擾之條件下使用，本頻段亦分配供低功率射頻電機在次要使用條件下使用"
             ],
-            "page_number": 68
+            "page_number": 59
         },
         {
             "range": [
@@ -6353,10 +6398,10 @@
                 "行動（主）"
             ],
             "note": [
-                "5925-6425供公眾通信中繼網路使用，WRC-03亦決議供ESVs（機/船上地球台）使用",
+                "5925-6425供公眾通信中繼網路使用，WRC-03亦決議供ESVs（機/船上地球臺）使用",
                 "6336-7920供採用超寬頻技術（UWB）之低功率射頻電機於次要條件下使用"
             ],
-            "page_number": 68
+            "page_number": 59
         },
         {
             "range": [
@@ -6376,7 +6421,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 68
+            "page_number": 59
         },
         {
             "range": [
@@ -6394,7 +6439,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 68
+            "page_number": 59
         },
         {
             "range": [
@@ -6410,10 +6455,11 @@
             "usage": [
                 "固定（主）",
                 "行動（主）",
-                "太空研究（地球對太空）（主）"
+                "太空研究（深太空）（地球對",
+                "太空）（主）"
             ],
             "note": [],
-            "page_number": 68
+            "page_number": 59
         },
         {
             "range": [
@@ -6433,7 +6479,7 @@
                 "太空研究（地球對太空）（主）"
             ],
             "note": [],
-            "page_number": 68
+            "page_number": 59
         },
         {
             "range": [
@@ -6452,7 +6498,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 69
+            "page_number": 60
         },
         {
             "range": [
@@ -6471,7 +6517,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 70
+            "page_number": 61
         },
         {
             "range": [
@@ -6490,7 +6536,7 @@
                 "行動（主），航空行動除外"
             ],
             "note": [],
-            "page_number": 70
+            "page_number": 61
         },
         {
             "range": [
@@ -6512,7 +6558,7 @@
             "note": [
                 "7392-8976供採用超寬頻技術（UWB）之低功率射頻電機於次要條件下使用"
             ],
-            "page_number": 70
+            "page_number": 61
         },
         {
             "range": [
@@ -6533,7 +6579,7 @@
                 "（主）"
             ],
             "note": [],
-            "page_number": 70
+            "page_number": 61
         },
         {
             "range": [
@@ -6553,7 +6599,7 @@
                 "（主）"
             ],
             "note": [],
-            "page_number": 70
+            "page_number": 61
         },
         {
             "range": [
@@ -6572,7 +6618,7 @@
                 "衛星氣象（太空對地球）（主）"
             ],
             "note": [],
-            "page_number": 70
+            "page_number": 61
         },
         {
             "range": [
@@ -6591,7 +6637,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 70
+            "page_number": 61
         },
         {
             "range": [
@@ -6611,7 +6657,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 70
+            "page_number": 62
         },
         {
             "range": [
@@ -6632,7 +6678,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 71
+            "page_number": 63
         },
         {
             "range": [
@@ -6652,7 +6698,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 71
+            "page_number": 63
         },
         {
             "range": [
@@ -6671,7 +6717,7 @@
                 "太空研究（太空對地球）（主）"
             ],
             "note": [],
-            "page_number": 71
+            "page_number": 63
         },
         {
             "range": [
@@ -6688,7 +6734,7 @@
                 "無線電定位"
             ],
             "note": [],
-            "page_number": 71
+            "page_number": 63
         },
         {
             "range": [
@@ -6707,7 +6753,7 @@
                 "衛星地球探測（主動式）（主）"
             ],
             "note": [],
-            "page_number": 71
+            "page_number": 63
         },
         {
             "range": [
@@ -6724,7 +6770,7 @@
                 "無線電定位"
             ],
             "note": [],
-            "page_number": 71
+            "page_number": 63
         },
         {
             "range": [
@@ -6742,7 +6788,7 @@
                 "航空無線電助航（主）"
             ],
             "note": [],
-            "page_number": 71
+            "page_number": 63
         },
         {
             "range": [
@@ -6760,7 +6806,7 @@
                 "水上無線電助航（主）"
             ],
             "note": [],
-            "page_number": 71
+            "page_number": 63
         },
         {
             "range": [
@@ -6778,7 +6824,7 @@
                 "無線電定位（主）"
             ],
             "note": [],
-            "page_number": 71
+            "page_number": 63
         },
         {
             "range": [
@@ -6797,7 +6843,7 @@
                 "水上無線電助航（主）"
             ],
             "note": [],
-            "page_number": 72
+            "page_number": 64
         },
         {
             "range": [
@@ -6812,14 +6858,14 @@
             "unit_factor": 10000000000.0,
             "usage": [
                 "無線電助航（主）",
-                "衛星地球探測（主動式）",
-                "太空研究（主動式）",
+                "衛星地球探測（主動式）（主）",
+                "太空研究（主動式）（主）",
                 "無線電定位（主）"
             ],
             "note": [
                 "WRC-07決議此頻段供航空無線電助航時，限用於airborneweatherradar及ground-baseradar"
             ],
-            "page_number": 72
+            "page_number": 64
         },
         {
             "range": [
@@ -6839,7 +6885,7 @@
                 "衛星地球探測（主動式）（主）"
             ],
             "note": [],
-            "page_number": 72
+            "page_number": 64
         },
         {
             "range": [
@@ -6859,9 +6905,9 @@
                 "固定（次）"
             ],
             "note": [
-                "WRC-07決議此頻段供衛星地球探測及太空研究業務不能對固定（次）業務造成干擾"
+                "WRC-07決議此頻段供衛星地球探測及太空研究不能對固定（次）造成干擾"
             ],
-            "page_number": 72
+            "page_number": 64
         },
         {
             "range": [
@@ -6880,7 +6926,7 @@
                 "固定（次）"
             ],
             "note": [],
-            "page_number": 72
+            "page_number": 64
         },
         {
             "range": [
@@ -6901,7 +6947,7 @@
                 "業餘（次）"
             ],
             "note": [],
-            "page_number": 72
+            "page_number": 64
         },
         {
             "range": [
@@ -6921,7 +6967,7 @@
                 "業餘（次）"
             ],
             "note": [],
-            "page_number": 72
+            "page_number": 64
         },
         {
             "range": [
@@ -6940,7 +6986,7 @@
                 "衛星業餘（次）"
             ],
             "note": [],
-            "page_number": 72
+            "page_number": 64
         },
         {
             "range": [
@@ -6959,7 +7005,7 @@
                 "無線電定位（主）"
             ],
             "note": [],
-            "page_number": 73
+            "page_number": 65
         },
         {
             "range": [
@@ -6978,7 +7024,7 @@
                 "無線電定位（次）"
             ],
             "note": [],
-            "page_number": 74
+            "page_number": 66
         },
         {
             "range": [
@@ -7000,7 +7046,7 @@
                 "無線電定位（次）"
             ],
             "note": [],
-            "page_number": 74
+            "page_number": 66
         },
         {
             "range": [
@@ -7019,7 +7065,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 74
+            "page_number": 66
         },
         {
             "range": [
@@ -7040,7 +7086,7 @@
             "note": [
                 "10.70-11.70供公眾通信中繼網路使用"
             ],
-            "page_number": 74
+            "page_number": 66
         },
         {
             "range": [
@@ -7060,9 +7106,9 @@
                 "衛星廣播（主）"
             ],
             "note": [
-                "11.7-12.2WRC-03決議亦分配供衛星固定（太空對地球）業務使用"
+                "11.7-12.2WRC-03決議亦分配供衛星固定（太空對地球）使用"
             ],
-            "page_number": 74
+            "page_number": 66
         },
         {
             "range": [
@@ -7081,8 +7127,10 @@
                 "行動（主），航空行動除外",
                 "廣播（主）"
             ],
-            "note": [],
-            "page_number": 74
+            "note": [
+                "12.4GHz以下供低功率透地雷達及牆體顯像系統於不得干擾合法通信且須忍受合法通信干擾之條件下使用"
+            ],
+            "page_number": 66
         },
         {
             "range": [
@@ -7102,7 +7150,7 @@
                 "衛星廣播（主）"
             ],
             "note": [],
-            "page_number": 74
+            "page_number": 66
         },
         {
             "range": [
@@ -7126,7 +7174,7 @@
                 "12.75-13.15供廣播電視業者阻隔地區節目中繼使用",
                 "13.15-13.20供廣播電視現場節目轉播使用"
             ],
-            "page_number": 75
+            "page_number": 67
         },
         {
             "range": [
@@ -7145,7 +7193,7 @@
                 "太空研究（主動式）（主）"
             ],
             "note": [],
-            "page_number": 75
+            "page_number": 67
         },
         {
             "range": [
@@ -7166,7 +7214,7 @@
                 "（地球對太空）（次）"
             ],
             "note": [],
-            "page_number": 75
+            "page_number": 67
         },
         {
             "range": [
@@ -7188,7 +7236,7 @@
                 "衛星地球探測（次）"
             ],
             "note": [],
-            "page_number": 75
+            "page_number": 67
         },
         {
             "range": [
@@ -7208,9 +7256,9 @@
                 "太空研究（次）"
             ],
             "note": [
-                "14-14.5WRC-03決議供ESVs（機/船上地球台）使用，亦決議供飛行器上的發射接收站與固定衛星通信使用"
+                "14-14.5WRC-03決議供ESVs（機/船上地球臺）使用，亦決議供飛行器上的發射接收站與固定衛星通信使用"
             ],
-            "page_number": 75
+            "page_number": 67
         },
         {
             "range": [
@@ -7231,9 +7279,9 @@
                 "衛星無線電助航 （次）"
             ],
             "note": [
-                "14-14.5WRC-03決議供ESVs（機/船上地球台）使用，亦決議供飛行器上的發射接收站與固定衛星通信使用"
+                "14-14.5WRC-03決議供ESVs（機/船上地球臺）使用，亦決議供飛行器上的發射接收站與固定衛星通信使用"
             ],
-            "page_number": 75
+            "page_number": 67
         },
         {
             "range": [
@@ -7254,7 +7302,7 @@
                 "太空研究（太空對地球）（次）"
             ],
             "note": [],
-            "page_number": 76
+            "page_number": 68
         },
         {
             "range": [
@@ -7275,7 +7323,7 @@
                 "無線電天文（次）"
             ],
             "note": [],
-            "page_number": 76
+            "page_number": 68
         },
         {
             "range": [
@@ -7295,7 +7343,7 @@
                 "太空研究（次）"
             ],
             "note": [],
-            "page_number": 76
+            "page_number": 68
         },
         {
             "range": [
@@ -7316,7 +7364,7 @@
             "note": [
                 "供公眾通信中繼網路使用"
             ],
-            "page_number": 76
+            "page_number": 68
         },
         {
             "range": [
@@ -7335,7 +7383,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 76
+            "page_number": 68
         },
         {
             "range": [
@@ -7353,7 +7401,7 @@
                 "航空無線電助航（主）"
             ],
             "note": [],
-            "page_number": 76
+            "page_number": 68
         },
         {
             "range": [
@@ -7372,9 +7420,9 @@
                 "航空無線電助航（主）"
             ],
             "note": [
-                "WRC-97決議供衛星固定業務（太空對地球）（限於非同步衛星系統）使用"
+                "WRC-97決議供衛星固定通信（太空對地球（）限於非同步衛星系統）使用"
             ],
-            "page_number": 76
+            "page_number": 68
         },
         {
             "range": [
@@ -7392,7 +7440,7 @@
                 "航空無線電助航（主）"
             ],
             "note": [],
-            "page_number": 76
+            "page_number": 68
         },
         {
             "range": [
@@ -7409,7 +7457,7 @@
                 "無線電定位"
             ],
             "note": [],
-            "page_number": 77
+            "page_number": 69
         },
         {
             "range": [
@@ -7428,7 +7476,7 @@
                 "空）（次）"
             ],
             "note": [],
-            "page_number": 77
+            "page_number": 69
         },
         {
             "range": [
@@ -7445,7 +7493,7 @@
                 "無線電定位"
             ],
             "note": [],
-            "page_number": 77
+            "page_number": 69
         },
         {
             "range": [
@@ -7464,7 +7512,7 @@
                 "太空研究（主動式）（主）"
             ],
             "note": [],
-            "page_number": 77
+            "page_number": 69
         },
         {
             "range": [
@@ -7482,7 +7530,7 @@
                 "無線電定位（次）"
             ],
             "note": [],
-            "page_number": 77
+            "page_number": 69
         },
         {
             "range": [
@@ -7504,7 +7552,7 @@
             "note": [
                 "17.7-19.7供公眾通信中繼網路使用"
             ],
-            "page_number": 77
+            "page_number": 69
         },
         {
             "range": [
@@ -7526,7 +7574,7 @@
             "note": [
                 "17.7-19.7供公眾通信中繼網路使用"
             ],
-            "page_number": 77
+            "page_number": 69
         },
         {
             "range": [
@@ -7547,7 +7595,7 @@
             "note": [
                 "17.7-19.7供公眾通信中繼網路使用"
             ],
-            "page_number": 77
+            "page_number": 69
         },
         {
             "range": [
@@ -7567,10 +7615,8 @@
                 "衛星地球探測（被動式）（主）",
                 "太空研究（被動式）（次）"
             ],
-            "note": [
-                "17.7-19.7公眾通信中繼網路使用"
-            ],
-            "page_number": 78
+            "note": [],
+            "page_number": 70
         },
         {
             "range": [
@@ -7588,10 +7634,8 @@
                 "衛星固定（太空對地球）（主）",
                 "行動（主）"
             ],
-            "note": [
-                "17.7-19.7公眾通信中繼網路使用"
-            ],
-            "page_number": 78
+            "note": [],
+            "page_number": 70
         },
         {
             "range": [
@@ -7610,10 +7654,8 @@
                 "球對太空）（主）",
                 "行動（主）"
             ],
-            "note": [
-                "17.7-19.7公眾通信中繼網路使用"
-            ],
-            "page_number": 78
+            "note": [],
+            "page_number": 70
         },
         {
             "range": [
@@ -7631,9 +7673,9 @@
                 "衛星行動（太空對地球）（次）"
             ],
             "note": [
-                "19.7-20.2WRC-03決議供高密度衛星固定業務（HDFSS）使用"
+                "19.7-20.2WRC-03決議供高密度衛星固定通信（HDFSS）使用"
             ],
-            "page_number": 78
+            "page_number": 70
         },
         {
             "range": [
@@ -7651,9 +7693,9 @@
                 "衛星行動（太空對地球）（主）"
             ],
             "note": [
-                "19.7-20.2WRC-03決議供高密度衛星固定業務（HDFSS）使用"
+                "19.7-20.2WRC-03決議供高密度衛星固定通信（HDFSS）使用"
             ],
-            "page_number": 78
+            "page_number": 70
         },
         {
             "range": [
@@ -7672,7 +7714,7 @@
                 "空對地球）（次）"
             ],
             "note": [],
-            "page_number": 78
+            "page_number": 70
         },
         {
             "range": [
@@ -7693,9 +7735,9 @@
             ],
             "note": [
                 "21.2-23.6供公眾通信中繼網路使用",
-                "21.4-22.0WARC-92決議HDTV衛星廣播業務使用"
+                "21.4-22.0WARC-92決議HDTV衛星廣播使用"
             ],
-            "page_number": 78
+            "page_number": 70
         },
         {
             "range": [
@@ -7715,9 +7757,9 @@
             ],
             "note": [
                 "21.2-23.6供公眾通信中繼網路使用",
-                "21.4-22.0WARC-92決議HDTV衛星廣播業務使用"
+                "21.4-22.0WARC-92決議HDTV衛星廣播使用"
             ],
-            "page_number": 78
+            "page_number": 70
         },
         {
             "range": [
@@ -7734,10 +7776,8 @@
                 "固定（主）",
                 "行動（主），航空行動除外"
             ],
-            "note": [
-                "21.2-23.6供公眾通信中繼網路使用"
-            ],
-            "page_number": 79
+            "note": [],
+            "page_number": 71
         },
         {
             "range": [
@@ -7757,10 +7797,8 @@
                 "無線電天文（主）",
                 "太空研究（被動式）（主）"
             ],
-            "note": [
-                "21.2-23.6供公眾通信中繼網路使用"
-            ],
-            "page_number": 79
+            "note": [],
+            "page_number": 71
         },
         {
             "range": [
@@ -7777,10 +7815,8 @@
                 "固定（主）",
                 "行動（主）"
             ],
-            "note": [
-                "21.2-23.6供公眾通信中繼網路使用"
-            ],
-            "page_number": 79
+            "note": [],
+            "page_number": 71
         },
         {
             "range": [
@@ -7800,9 +7836,9 @@
                 "太空研究（地球對太空）（主）"
             ],
             "note": [
-                "22.55-23WARC-92決議供衛星通訊業務使用"
+                "22.55-23WARC-92決議供衛星通訊使用"
             ],
-            "page_number": 79
+            "page_number": 71
         },
         {
             "range": [
@@ -7821,7 +7857,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 79
+            "page_number": 71
         },
         {
             "range": [
@@ -7839,7 +7875,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 79
+            "page_number": 71
         },
         {
             "range": [
@@ -7853,12 +7889,12 @@
             "unit": "GHz",
             "unit_factor": 10000000000.0,
             "usage": [
-                "固定"
+                "  固定"
             ],
             "note": [
                 "23.6-23.8供廣播電視現場節目轉播使用"
             ],
-            "page_number": 79
+            "page_number": 71
         },
         {
             "range": [
@@ -7877,7 +7913,7 @@
                 " 太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 79
+            "page_number": 71
         },
         {
             "range": [
@@ -7895,9 +7931,9 @@
                 "衛星業餘（主）"
             ],
             "note": [
-                "24.1250.125供工、科、醫用設備使用，其他業務應在忍受其干擾之條件下使用，本頻段亦分配供低功率射頻電機在次要使用條件下使用"
+                "24.1250.125供工、科、醫用設備使用，其他用途應在忍受其干擾之條件下使用，本頻段亦分配供低功率射頻電機在次要使用條件下使用"
             ],
-            "page_number": 79
+            "page_number": 71
         },
         {
             "range": [
@@ -7916,9 +7952,9 @@
                 "衛星地球探測（主動式）（次）"
             ],
             "note": [
-                "24.1250.125供工、科、醫用設備使用，其他業務應在忍受其干擾之條件下使用，本頻段亦分配供低功率射頻電機在次要使用條件下使用"
+                "24.1250.125供工、科、醫用設備使用，其他用途應在忍受其干擾之條件下使用，本頻段亦分配供低功率射頻電機在次要使用條件下使用"
             ],
-            "page_number": 80
+            "page_number": 72
         },
         {
             "range": [
@@ -7937,10 +7973,10 @@
                 "行動（主）"
             ],
             "note": [
-                "WARC-92決議供衛星通訊業務使用",
-                "24.25-26.65供低功率車輛短距離雷達設備（SRR）於不得干擾其他合法無線電業務且須於忍受其干擾之條件下使用"
+                "WARC-92決議供衛星通訊使用",
+                "24.25-26.65供低功率車輛短距離雷達設備（SRR）於不得干擾其他合法無線電通信且須於忍受其干擾之條件下使用"
             ],
-            "page_number": 80
+            "page_number": 72
         },
         {
             "range": [
@@ -7960,10 +7996,10 @@
                 "行動（主）"
             ],
             "note": [
-                "WARC-92決議供衛星通訊業務使用",
+                "WARC-92決議供衛星通訊使用",
                 "24.5-24.9供公眾通信中繼網路使用"
             ],
-            "page_number": 80
+            "page_number": 72
         },
         {
             "range": [
@@ -7983,10 +8019,10 @@
                 "行動（主）"
             ],
             "note": [
-                "WARC-92決議供衛星通訊業務使用",
+                "WARC-92決議供衛星通訊使用",
                 "24.5-24.9供公眾通信中繼網路使用"
             ],
-            "page_number": 80
+            "page_number": 72
         },
         {
             "range": [
@@ -8005,10 +8041,10 @@
                 "行動（主）"
             ],
             "note": [
-                "WARC-92決議供衛星通訊業務使用",
+                "WARC-92決議供衛星通訊使用",
                 "24.5-24.9供公眾通信中繼網路使用"
             ],
-            "page_number": 80
+            "page_number": 72
         },
         {
             "range": [
@@ -8028,9 +8064,9 @@
                 "球對太空）（次）"
             ],
             "note": [
-                "WARC-92決議供衛星固定業務使用"
+                "WARC-92決議供衛星固定通信使用"
             ],
-            "page_number": 80
+            "page_number": 72
         },
         {
             "range": [
@@ -8044,7 +8080,7 @@
             "unit": "GHz",
             "unit_factor": 10000000000.0,
             "usage": [
-                "衛星地球探測（太空對地球）",
+                "  衛星地球探測（太空對地球）",
                 "（主）",
                 "固定（主）",
                 "衛星與衛星間（主）",
@@ -8053,10 +8089,10 @@
                 "球對太空）（次）"
             ],
             "note": [
-                "WARC-92決議供衛星地球探測業務使用",
+                "WARC-92決議供衛星地球探測使用",
                 "25.5-25.9供公眾通信中繼網路使用"
             ],
-            "page_number": 81
+            "page_number": 73
         },
         {
             "range": [
@@ -8076,7 +8112,7 @@
                 "衛星與衛星間（主）"
             ],
             "note": [],
-            "page_number": 81
+            "page_number": 73
         },
         {
             "range": [
@@ -8095,11 +8131,11 @@
                 "固定（主）"
             ],
             "note": [
-                "27-29.5供行動寬頻業務使用",
-                "27.5-30WARC-92決議供衛星固定業務使用",
-                "28.45-29.1,29.46-30WRC-03決議供高密度衛星固定業務（HDFSS）使用"
+                "27-29.5供行動通信使用",
+                "27.5-30WARC-92決議供衛星固定通信使用",
+                "28.45-29.1,29.46-30WRC-03決議供高密度衛星固定通信（HDFSS）使用"
             ],
-            "page_number": 81
+            "page_number": 73
         },
         {
             "range": [
@@ -8116,15 +8152,15 @@
                 "固定（主）",
                 "衛星固定（地球對太空）（主）",
                 "行動（主）",
-                "衛星地球探測（地球對太空）",
+                "  衛星地球探測（地球對太空）",
                 "（次）"
             ],
             "note": [
-                "27-29.5供行動寬頻業務使用",
-                "27.5-30WARC-92決議供衛星固定業務使用",
-                "28.45-29.1,29.46-30WRC-03決議供高密度衛星固定業務（HDFSS）使用"
+                "27-29.5供行動通信使用",
+                "27.5-30WARC-92決議供衛星固定通信使用",
+                "28.45-29.1,29.46-30WRC-03決議供高密度衛星固定通信（HDFSS）使用"
             ],
-            "page_number": 81
+            "page_number": 73
         },
         {
             "range": [
@@ -8143,11 +8179,11 @@
                 "（次）"
             ],
             "note": [
-                "27-29.5供行動寬頻業務使用",
-                "27.5-30WARC-92決議供衛星固定業務使用",
-                "28.45-29.1,29.46-30WRC-03決議供高密度衛星固定業務（HDFSS）使用"
+                "27-29.5供行動通信使用",
+                "27.5-30WARC-92決議供衛星固定通信使用",
+                "28.45-29.1,29.46-30WRC-03決議供高密度衛星固定通信（HDFSS）使用"
             ],
-            "page_number": 81
+            "page_number": 73
         },
         {
             "range": [
@@ -8166,11 +8202,11 @@
                 "（次）"
             ],
             "note": [
-                "27-29.5供行動寬頻業務使用",
-                "27.5-30WARC-92決議供衛星固定業務使用",
-                "28.45-29.1,29.46-30WRC-03決議供高密度衛星固定業務（HDFSS）使用"
+                "27-29.5供行動通信使用",
+                "27.5-30WARC-92決議供衛星固定通信使用",
+                "28.45-29.1,29.46-30WRC-03決議供高密度衛星固定通信（HDFSS）使用"
             ],
-            "page_number": 81
+            "page_number": 73
         },
         {
             "range": [
@@ -8189,7 +8225,7 @@
                 "空對地球）（次）"
             ],
             "note": [],
-            "page_number": 82
+            "page_number": 74
         },
         {
             "range": [
@@ -8209,7 +8245,7 @@
                 "太空研究（次）"
             ],
             "note": [],
-            "page_number": 82
+            "page_number": 74
         },
         {
             "range": [
@@ -8228,7 +8264,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 82
+            "page_number": 74
         },
         {
             "range": [
@@ -8249,7 +8285,7 @@
                 "行動（次），航空行動除外"
             ],
             "note": [],
-            "page_number": 82
+            "page_number": 74
         },
         {
             "range": [
@@ -8269,9 +8305,9 @@
                 "球）（主）"
             ],
             "note": [
-                "31.8-33.4WRC-2000決議可供高密度固定業務（HDFS）使用"
+                "31.8-33.4WRC-2000決議可供高密度固定通信（HDFS）使用"
             ],
-            "page_number": 82
+            "page_number": 74
         },
         {
             "range": [
@@ -8291,9 +8327,9 @@
                 "球）（主）"
             ],
             "note": [
-                "31.8-33.4WRC-2000決議可供高密度固定業務（HDFS）使用"
+                "31.8-33.4WRC-2000決議可供高密度固定通信（HDFS）使用"
             ],
-            "page_number": 82
+            "page_number": 74
         },
         {
             "range": [
@@ -8312,7 +8348,7 @@
                 "無線電助航（主）"
             ],
             "note": [],
-            "page_number": 83
+            "page_number": 75
         },
         {
             "range": [
@@ -8330,7 +8366,7 @@
                 "固定（主）"
             ],
             "note": [],
-            "page_number": 83
+            "page_number": 75
         },
         {
             "range": [
@@ -8347,7 +8383,7 @@
                 "無線電定位"
             ],
             "note": [],
-            "page_number": 83
+            "page_number": 75
         },
         {
             "range": [
@@ -8366,7 +8402,7 @@
                 "空）（主）"
             ],
             "note": [],
-            "page_number": 83
+            "page_number": 75
         },
         {
             "range": [
@@ -8384,7 +8420,7 @@
                 "太空研究（次）"
             ],
             "note": [],
-            "page_number": 83
+            "page_number": 75
         },
         {
             "range": [
@@ -8402,7 +8438,7 @@
                 "無線電定位（主）"
             ],
             "note": [],
-            "page_number": 83
+            "page_number": 75
         },
         {
             "range": [
@@ -8422,7 +8458,7 @@
                 "太空研究（主動式）（主）"
             ],
             "note": [],
-            "page_number": 83
+            "page_number": 75
         },
         {
             "range": [
@@ -8442,7 +8478,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 83
+            "page_number": 75
         },
         {
             "range": [
@@ -8461,11 +8497,11 @@
                 "太空研究（太空對地球）（主）"
             ],
             "note": [
-                "37-38WARC-92決議供太空研究業務使用",
+                "37-38WARC-92決議供太空研究使用",
                 "37-37.4供公眾通信中繼網路使用",
-                "37-40WRC-2000決議可供高密度固定業務（HDFS）使用"
+                "37-40WRC-2000決議可供高密度固定通信（HDFS）使用"
             ],
-            "page_number": 83
+            "page_number": 75
         },
         {
             "range": [
@@ -8486,11 +8522,11 @@
                 "（次）"
             ],
             "note": [
-                "WARC-92決議供衛星地球探測業務使用",
-                "37-38WARC-92決議供太空研究業務使用",
+                "WARC-92決議供衛星地球探測使用",
+                "37-38WARC-92決議供太空研究使用",
                 "38.3-38.7供公眾通信中繼網路使用"
             ],
-            "page_number": 84
+            "page_number": 76
         },
         {
             "range": [
@@ -8510,11 +8546,11 @@
                 "（次）"
             ],
             "note": [
-                "WARC-92決議供衛星地球探測業務使用",
-                "37-38WARC-92決議供太空研究業務使用",
+                "WARC-92決議供衛星地球探測使用",
+                "37-38WARC-92決議供太空研究使用",
                 "38.3-38.7供公眾通信中繼網路使用"
             ],
-            "page_number": 84
+            "page_number": 76
         },
         {
             "range": [
@@ -8535,11 +8571,11 @@
                 "（次）"
             ],
             "note": [
-                "WARC-92決議供衛星地球探測業務使用",
-                "37-38WARC-92決議供太空研究業務使用",
+                "WARC-92決議供衛星地球探測使用",
+                "37-38WARC-92決議供太空研究使用",
                 "38.3-38.7供公眾通信中繼網路使用"
             ],
-            "page_number": 84
+            "page_number": 76
         },
         {
             "range": [
@@ -8562,10 +8598,10 @@
                 "（次）"
             ],
             "note": [
-                "40-40.5WRC-03決議供高密度衛星固定業務（HDFSS）使用",
-                "40.5-43.5WRC-2000決議可供高密度固定業務（HDFS）使用"
+                "40-40.5WRC-03決議供高密度衛星固定通信（HDFSS）使用",
+                "40.5-43.5WRC-2000決議可供高密度固定通信（HDFS）使用"
             ],
-            "page_number": 84
+            "page_number": 76
         },
         {
             "range": [
@@ -8581,14 +8617,16 @@
             "usage": [
                 "廣播（主）",
                 "衛星廣播（主）",
+                "陸地行動（主）",
                 "固定（主）",
                 "衛星固定（太空對地球）（主）",
-                "行動（次）"
+                "航空行動（次）",
+                "水上行動（次）"
             ],
             "note": [
-                "WRC-97決議供衛星固定業務使用"
+                "WRC-97決議供衛星固定通信使用"
             ],
-            "page_number": 85
+            "page_number": 77
         },
         {
             "range": [
@@ -8608,7 +8646,7 @@
                 "無線電天文（主）"
             ],
             "note": [],
-            "page_number": 85
+            "page_number": 77
         },
         {
             "range": [
@@ -8628,7 +8666,7 @@
                 "衛星無線電助航（主）"
             ],
             "note": [],
-            "page_number": 85
+            "page_number": 77
         },
         {
             "range": [
@@ -8646,7 +8684,7 @@
                 "衛星業餘（主）"
             ],
             "note": [],
-            "page_number": 85
+            "page_number": 77
         },
         {
             "range": [
@@ -8665,7 +8703,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 85
+            "page_number": 77
         },
         {
             "range": [
@@ -8683,7 +8721,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 85
+            "page_number": 77
         },
         {
             "range": [
@@ -8703,15 +8741,36 @@
                 "衛星行動（地球對太空）（次）"
             ],
             "note": [],
-            "page_number": 85
+            "page_number": 77
         },
         {
             "range": [
                 51.4,
-                52.6
+                52.4
             ],
             "normalized_range": [
                 514000000000.0,
+                524000000000.0
+            ],
+            "unit": "GHz",
+            "unit_factor": 10000000000.0,
+            "usage": [
+                "固定（主）",
+                "衛星固定（地球對太空）（主）",
+                "  行動（主）"
+            ],
+            "note": [
+                "51.4-52.6WRC-2000決議可供高密度固定通信（HDFS）使用"
+            ],
+            "page_number": 77
+        },
+        {
+            "range": [
+                52.4,
+                52.6
+            ],
+            "normalized_range": [
+                524000000000.0,
                 526000000000.0
             ],
             "unit": "GHz",
@@ -8720,10 +8779,8 @@
                 "固定（主）",
                 "行動（主）"
             ],
-            "note": [
-                "51.4-52.6WRC-2000決議可供高密度固定業務（HDFS）使用"
-            ],
-            "page_number": 85
+            "note": [],
+            "page_number": 78
         },
         {
             "range": [
@@ -8741,7 +8798,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 86
+            "page_number": 79
         },
         {
             "range": [
@@ -8760,7 +8817,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 86
+            "page_number": 79
         },
         {
             "range": [
@@ -8781,12 +8838,12 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [
-                "55.78-59WRC-2000決議可供高密度固定業務（HDFS）使用",
+                "55.78-59WRC-2000決議可供高密度固定通信（HDFS）使用",
                 "57-66供免執照設備使用",
                 "61.25GHz±250MHz計劃供工、科、醫用設備使用",
-                "64-66WRC-2000決議可供高密度固定業務（HDFS）使用"
+                "64-66WRC-2000決議可供高密度固定通信（HDFS）使用"
             ],
-            "page_number": 86
+            "page_number": 79
         },
         {
             "range": [
@@ -8806,12 +8863,12 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [
-                "55.78-59WRC-2000決議可供高密度固定業務（HDFS）使用",
+                "55.78-59WRC-2000決議可供高密度固定通信（HDFS）使用",
                 "57-66供免執照設備使用",
                 "61.25GHz±250MHz計劃供工、科、醫用設備使用",
-                "64-66WRC-2000決議可供高密度固定業務（HDFS）使用"
+                "64-66WRC-2000決議可供高密度固定通信（HDFS）使用"
             ],
-            "page_number": 86
+            "page_number": 79
         },
         {
             "range": [
@@ -8833,12 +8890,12 @@
                 "無線電定位（主）"
             ],
             "note": [
-                "55.78-59WRC-2000決議可供高密度固定業務（HDFS）使用",
+                "55.78-59WRC-2000決議可供高密度固定通信（HDFS）使用",
                 "57-66供免執照設備使用",
                 "61.25GHz±250MHz計劃供工、科、醫用設備使用",
-                "64-66WRC-2000決議可供高密度固定業務（HDFS）使用"
+                "64-66WRC-2000決議可供高密度固定通信（HDFS）使用"
             ],
-            "page_number": 86
+            "page_number": 79
         },
         {
             "range": [
@@ -8858,12 +8915,12 @@
                 "無線電定位（主）"
             ],
             "note": [
-                "55.78-59WRC-2000決議可供高密度固定業務（HDFS）使用",
+                "55.78-59WRC-2000決議可供高密度固定通信（HDFS）使用",
                 "57-66供免執照設備使用",
                 "61.25GHz±250MHz計劃供工、科、醫用設備使用",
-                "64-66WRC-2000決議可供高密度固定業務（HDFS）使用"
+                "64-66WRC-2000決議可供高密度固定通信（HDFS）使用"
             ],
-            "page_number": 86
+            "page_number": 79
         },
         {
             "range": [
@@ -8882,12 +8939,12 @@
                 "行動（主），航空行動除外"
             ],
             "note": [
-                "55.78-59WRC-2000決議可供高密度固定業務（HDFS）使用",
+                "55.78-59WRC-2000決議可供高密度固定通信（HDFS）使用",
                 "57-66供免執照設備使用",
                 "61.25GHz±250MHz計劃供工、科、醫用設備使用",
-                "64-66WRC-2000決議可供高密度固定業務（HDFS）使用"
+                "64-66WRC-2000決議可供高密度固定通信（HDFS）使用"
             ],
-            "page_number": 86
+            "page_number": 79
         },
         {
             "range": [
@@ -8908,7 +8965,7 @@
                 "行動（主），航空行動除外"
             ],
             "note": [],
-            "page_number": 87
+            "page_number": 80
         },
         {
             "range": [
@@ -8929,7 +8986,7 @@
                 "衛星與衛星間（主）"
             ],
             "note": [],
-            "page_number": 87
+            "page_number": 80
         },
         {
             "range": [
@@ -8951,7 +9008,7 @@
             "note": [
                 "71-76供高速無線傳輸使用"
             ],
-            "page_number": 87
+            "page_number": 80
         },
         {
             "range": [
@@ -8973,9 +9030,9 @@
                 "太空研究（太空對地球）（次）"
             ],
             "note": [
-                "WARC-92決議供太空研究業務使用"
+                "WARC-92決議供太空研究使用"
             ],
-            "page_number": 87
+            "page_number": 80
         },
         {
             "range": [
@@ -8997,9 +9054,9 @@
                 "太空研究（太空對地球）（次）"
             ],
             "note": [
-                "WARC-92決議供太空研究業務使用"
+                "WARC-92決議供太空研究使用"
             ],
-            "page_number": 87
+            "page_number": 80
         },
         {
             "range": [
@@ -9022,7 +9079,7 @@
             "note": [
                 "77-81供低功率車輛短距離雷達設備（SRR）及桶槽位面探測雷達設備（TankLevelProbingRadar,TLPR）使用"
             ],
-            "page_number": 88
+            "page_number": 81
         },
         {
             "range": [
@@ -9043,7 +9100,7 @@
                 "太空研究（太空對地球）（次）"
             ],
             "note": [],
-            "page_number": 88
+            "page_number": 81
         },
         {
             "range": [
@@ -9064,7 +9121,7 @@
                 "無線電天文（次）"
             ],
             "note": [],
-            "page_number": 88
+            "page_number": 81
         },
         {
             "range": [
@@ -9085,7 +9142,7 @@
                 "太空研究（太空對地球）（次）"
             ],
             "note": [],
-            "page_number": 88
+            "page_number": 81
         },
         {
             "range": [
@@ -9109,7 +9166,7 @@
             "note": [
                 "81-86供高速無線傳輸使用"
             ],
-            "page_number": 88
+            "page_number": 81
         },
         {
             "range": [
@@ -9129,7 +9186,7 @@
                 "無線電天文（主）"
             ],
             "note": [],
-            "page_number": 89
+            "page_number": 82
         },
         {
             "range": [
@@ -9148,7 +9205,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 89
+            "page_number": 82
         },
         {
             "range": [
@@ -9168,7 +9225,7 @@
                 "無線電定位（主）"
             ],
             "note": [],
-            "page_number": 89
+            "page_number": 82
         },
         {
             "range": [
@@ -9188,7 +9245,7 @@
                 "無線電天文（次）"
             ],
             "note": [],
-            "page_number": 89
+            "page_number": 82
         },
         {
             "range": [
@@ -9208,7 +9265,7 @@
                 "無線電定位（主）"
             ],
             "note": [],
-            "page_number": 89
+            "page_number": 82
         },
         {
             "range": [
@@ -9230,7 +9287,7 @@
                 "無線電定位（主）"
             ],
             "note": [],
-            "page_number": 89
+            "page_number": 82
         },
         {
             "range": [
@@ -9249,7 +9306,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 90
+            "page_number": 83
         },
         {
             "range": [
@@ -9268,7 +9325,7 @@
                 "無線電天文（主）"
             ],
             "note": [],
-            "page_number": 90
+            "page_number": 83
         },
         {
             "range": [
@@ -9288,7 +9345,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 90
+            "page_number": 83
         },
         {
             "range": [
@@ -9307,7 +9364,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 90
+            "page_number": 83
         },
         {
             "range": [
@@ -9327,7 +9384,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 90
+            "page_number": 83
         },
         {
             "range": [
@@ -9346,7 +9403,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 90
+            "page_number": 83
         },
         {
             "range": [
@@ -9365,7 +9422,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 91
+            "page_number": 84
         },
         {
             "range": [
@@ -9384,7 +9441,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 91
+            "page_number": 84
         },
         {
             "range": [
@@ -9403,7 +9460,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 91
+            "page_number": 84
         },
         {
             "range": [
@@ -9425,7 +9482,7 @@
             "note": [
                 "122.5GHz±500MHz計劃供工、科、醫用設備使用"
             ],
-            "page_number": 91
+            "page_number": 84
         },
         {
             "range": [
@@ -9446,7 +9503,7 @@
                 "無線電天文（次）"
             ],
             "note": [],
-            "page_number": 91
+            "page_number": 84
         },
         {
             "range": [
@@ -9467,7 +9524,7 @@
                 "無線電天文（次）"
             ],
             "note": [],
-            "page_number": 91
+            "page_number": 84
         },
         {
             "range": [
@@ -9488,7 +9545,7 @@
                 "無線電天文（主）"
             ],
             "note": [],
-            "page_number": 92
+            "page_number": 85
         },
         {
             "range": [
@@ -9507,7 +9564,7 @@
                 "無線電天文（次）"
             ],
             "note": [],
-            "page_number": 92
+            "page_number": 85
         },
         {
             "range": [
@@ -9527,7 +9584,7 @@
                 "衛星業餘（次）"
             ],
             "note": [],
-            "page_number": 92
+            "page_number": 85
         },
         {
             "range": [
@@ -9547,7 +9604,7 @@
                 "無線電定位（主）"
             ],
             "note": [],
-            "page_number": 92
+            "page_number": 85
         },
         {
             "range": [
@@ -9566,7 +9623,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 92
+            "page_number": 85
         },
         {
             "range": [
@@ -9586,7 +9643,7 @@
                 "無線電定位（主）"
             ],
             "note": [],
-            "page_number": 92
+            "page_number": 85
         },
         {
             "range": [
@@ -9600,14 +9657,12 @@
             "unit": "GHz",
             "unit_factor": 10000000000.0,
             "usage": [
-                "衛星地球探測（被動式）（主）",
                 "固定（主）",
                 "行動（主）",
-                "無線電天文（主）",
-                "太空研究（被動式）（主）"
+                "無線電天文（主）"
             ],
             "note": [],
-            "page_number": 93
+            "page_number": 86
         },
         {
             "range": [
@@ -9627,7 +9682,7 @@
                 "衛星行動（太空對地球）（主）"
             ],
             "note": [],
-            "page_number": 93
+            "page_number": 86
         },
         {
             "range": [
@@ -9646,7 +9701,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 93
+            "page_number": 86
         },
         {
             "range": [
@@ -9666,7 +9721,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 93
+            "page_number": 86
         },
         {
             "range": [
@@ -9686,7 +9741,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 93
+            "page_number": 86
         },
         {
             "range": [
@@ -9706,7 +9761,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 93
+            "page_number": 86
         },
         {
             "range": [
@@ -9725,7 +9780,7 @@
                 "行動（主）"
             ],
             "note": [],
-            "page_number": 93
+            "page_number": 86
         },
         {
             "range": [
@@ -9744,7 +9799,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 94
+            "page_number": 87
         },
         {
             "range": [
@@ -9763,7 +9818,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 94
+            "page_number": 87
         },
         {
             "range": [
@@ -9782,7 +9837,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 94
+            "page_number": 87
         },
         {
             "range": [
@@ -9800,7 +9855,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 94
+            "page_number": 87
         },
         {
             "range": [
@@ -9822,7 +9877,7 @@
                 "衛星無線電助航（主）"
             ],
             "note": [],
-            "page_number": 94
+            "page_number": 87
         },
         {
             "range": [
@@ -9841,7 +9896,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 94
+            "page_number": 87
         },
         {
             "range": [
@@ -9860,7 +9915,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 95
+            "page_number": 88
         },
         {
             "range": [
@@ -9880,7 +9935,7 @@
                 "無線電天文（主）"
             ],
             "note": [],
-            "page_number": 95
+            "page_number": 88
         },
         {
             "range": [
@@ -9901,7 +9956,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 95
+            "page_number": 88
         },
         {
             "range": [
@@ -9920,7 +9975,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 95
+            "page_number": 88
         },
         {
             "range": [
@@ -9939,7 +9994,7 @@
                 "無線電定位（次）"
             ],
             "note": [],
-            "page_number": 95
+            "page_number": 88
         },
         {
             "range": [
@@ -9959,7 +10014,7 @@
                 "無線電定位（次）"
             ],
             "note": [],
-            "page_number": 95
+            "page_number": 88
         },
         {
             "range": [
@@ -9978,7 +10033,7 @@
                 "太空研究（被動式）（主）"
             ],
             "note": [],
-            "page_number": 96
+            "page_number": 89
         },
         {
             "range": [
@@ -10000,7 +10055,7 @@
                 "衛星無線電助航（主）"
             ],
             "note": [],
-            "page_number": 96
+            "page_number": 89
         },
         {
             "range": [
@@ -10019,7 +10074,7 @@
                 "無線電定位（主）"
             ],
             "note": [],
-            "page_number": 96
+            "page_number": 89
         },
         {
             "range": [
@@ -10041,7 +10096,7 @@
             "note": [
                 "245±1計劃供工、科、醫用設備使用"
             ],
-            "page_number": 96
+            "page_number": 89
         },
         {
             "range": [
@@ -10060,7 +10115,7 @@
                 "無線電天文（次）"
             ],
             "note": [],
-            "page_number": 96
+            "page_number": 89
         },
         {
             "range": [
@@ -10079,66 +10134,7 @@
                 "無線電天文（主）"
             ],
             "note": [],
-            "page_number": 96
-        },
-        {
-            "range": [
-                252.0,
-                265.0
-            ],
-            "normalized_range": [
-                2520000000000.0,
-                2650000000000.0
-            ],
-            "unit": "GHz",
-            "unit_factor": 10000000000.0,
-            "usage": [
-                "固定（主）",
-                "行動（主）",
-                "衛星行動（地球對太空）（主）",
-                "無線電天文（主）",
-                "無線電助航（主）",
-                "衛星無線電助航（主）"
-            ],
-            "note": [],
-            "page_number": 97
-        },
-        {
-            "range": [
-                265.0,
-                275.0
-            ],
-            "normalized_range": [
-                2650000000000.0,
-                2750000000000.0
-            ],
-            "unit": "GHz",
-            "unit_factor": 10000000000.0,
-            "usage": [
-                "固定（主）",
-                "衛星固定（地球對太空）（主）",
-                "行動（主）",
-                "無線電天文（主）"
-            ],
-            "note": [],
-            "page_number": 97
-        },
-        {
-            "range": [
-                275.0,
-                3000.0
-            ],
-            "normalized_range": [
-                2750000000000.0,
-                30000000000000.0
-            ],
-            "unit": "GHz",
-            "unit_factor": 10000000000.0,
-            "usage": [
-                "未分配"
-            ],
-            "note": [],
-            "page_number": 97
+            "page_number": 89
         }
     ]
 }
