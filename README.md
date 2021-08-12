@@ -76,9 +76,9 @@ TODO
 ----
 
 - [] Radio Frequency Allocations Chart @ web frontend
-- [] Better search @ web front end
-  - [] Search by usage
-  - [] Search by note
+- [-] Better search @ web front end
+  - [-] Search by usage
+  - [-] Search by note
 
 Reference
 ---------
