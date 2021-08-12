@@ -105,7 +105,7 @@ class TaiwanSpectrum extends React.Component {
 
   renderAllocation(alloc) {
     const { classes } = this.props;
-	return (<Grid item xs={12} md={4}>
+	return (<Grid item xs={12} sm={4}>
 			  <Card>
 				<CardContent>
 				  <Typography color="textSecondary" style={{'fontSize': '0.6rem'}}>
