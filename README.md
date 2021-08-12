@@ -67,6 +67,8 @@ Web Frontend
 
 ![Taiwan Spectrum Search Web Frontend with searching 64 in the text field](data/web_frontend.png)
 
+![Taiwan Spectrum Search Web Frontend with searching emergency in the text field](data/web_frontend_search_by_text.jpg)
+
 ```
 $ cd taiwan-spectrum-search
 $ yarn start
