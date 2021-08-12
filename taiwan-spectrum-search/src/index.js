@@ -18,14 +18,32 @@ import CommentIcon from '@material-ui/icons/Comment';
 import spectrum from './data/spectrum.json';
 
 
-function checkFreqRange(freq) {
-  freq = parseFloat(freq);
+function checkFreqRangeOrText(text) {
+  let freq = parseFloat(text);
 
   var allocations = []
   spectrum['spectrum'].forEach(e => {
+	// Check Frequence
 	if (e['range'][0] <= freq && freq <= e['range'][1]) {
 	  allocations.push(e);
+	  return;
 	}
+
+	// Check Usage
+	e['usage'].forEach(u => {
+	  if (u.includes(text)) {
+		allocations.push(e);
+		return;
+	  }
+	});
+
+	// Check Note
+	e['note'].forEach(n => {
+	  if (n.includes(text)) {
+		allocations.push(e);
+		return;
+	  }
+	});
   });
 
   return allocations;
@@ -77,8 +95,8 @@ class TaiwanSpectrum extends React.Component {
 
   keyPress(e) {
 	if (e.key === 'Enter') {
-	  let freq = e.target.value;
-	  let allocations = checkFreqRange(freq);
+	  let text = e.target.value;
+	  let allocations = checkFreqRangeOrText(text);
 	  this.setState({allocations: allocations});
 
 	  e.preventDefault();
@@ -144,7 +162,7 @@ class TaiwanSpectrum extends React.Component {
 			<Grid item xs={12}>
 			  <form>
 				<TextField onKeyDown={this.keyPress}
-						   label="輸入欲查詢頻率"
+						   label="輸入欲查詢頻率或關鍵字 (e.g. 433, 氣象, 衛星)"
 						   fullWidth="true"></TextField>
 			  </form>
 			</Grid>
